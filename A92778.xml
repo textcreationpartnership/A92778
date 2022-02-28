@@ -1,0 +1,1176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Solomons choice: or, A president for kings and princes, and all that are in authority, presented in a sermon before the Honourable House of Commons at Margarets Westminster, at their publique fast, Septemb. 25. 1644. By Lazarus Seaman, pastor of the Church of Christ at Alhallowes-Breadstreet-London. One of the Assembly of Divines.</title>
+            <author>Seaman, Lazarus, d. 1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 119 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92778</idno>
+            <idno type="STC">Wing S2177</idno>
+            <idno type="STC">Thomason E16_23</idno>
+            <idno type="STC">ESTC R189</idno>
+            <idno type="EEBO-CITATION">99860493</idno>
+            <idno type="PROQUEST">99860493</idno>
+            <idno type="VID">154865</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92778)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154865)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E16[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Solomons choice: or, A president for kings and princes, and all that are in authority, presented in a sermon before the Honourable House of Commons at Margarets Westminster, at their publique fast, Septemb. 25. 1644. By Lazarus Seaman, pastor of the Church of Christ at Alhallowes-Breadstreet-London. One of the Assembly of Divines.</title>
+                  <author>Seaman, Lazarus, d. 1675.</author>
+               </titleStmt>
+               <extent>[8], 47, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.G. for J. Rothwell, and are to be sold at his shop at the signe of the Sun, in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A sermon preached at the last monethly fast before the honourable house of Commons, Sept. 25. 1644.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Kings, 1st, III, 9 --  Sermons.</term>
+               <term>Fast-day sermons --  17th century.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:154865:1" rendition="simple:additions"/>
+SOLOMONS CHOICE: OR, A Preſident for KINGS and PRINCES, and all that are in Authority,</p>
+            <p>Preſented in a SERMON before the Honourable Houſe of COMMONS at <hi>Margarets Weſtminſter,</hi> at their publique Faſt, Septemb. 25. 1644.</p>
+            <p>By <hi>Lazarus Seaman,</hi> Paſtor of the Church of Chriſt at Alhallowes-Breadſtreet-London. One of the Aſſembly of Divines.</p>
+            <q>
+               <hi>Wiſdome is better then weapons of warre,</hi> 
+               <bibl>Eccleſ. 9. 18.</bibl>
+            </q>
+            <q>
+               <hi>Scornfull men bring a City into a ſnare, but wiſe men turne away wrath,</hi> 
+               <bibl>Prov. 29. 8.</bibl>
+            </q>
+            <q>
+               <hi>Be wiſe now therefore O ye Kings, be inſtructed ye Judges of the Earth,</hi> 
+               <bibl>Pſal. 2. 10.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. G.</hi> for <hi>J. Rothwell,</hi> and are to be ſold at his ſhop at the ſigne of the Sun, in <hi>Pauls</hi> Church-yard. 1644.</p>
+            <pb facs="tcp:154865:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:154865:2"/>
+            <head>TO THE HONOURABLE THE Houſe of COMMONS in Parliament Aſſembled at <hi>Weſtminſter.</hi>
+            </head>
+            <opener>
+               <salute>Honourable, and Renowned Worthies,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He ſubject which I have treated on was well worthy of</hi> your eares: <hi>but very unſeemly for</hi> my tongue. <hi>Yet becauſe</hi> WISDOME <hi>which is</hi> THE EXCELLENCY OF KNOWLEDG <hi>is ſo</hi> exceeding neceſ<g ref="char:EOLhyphen"/>ſary <hi>to make</hi> poore England <hi>once more</hi> happy, <hi>therefore I have endeavoured to quicken your deſires and prayers for the attaining of a</hi> full meaſure, <hi>that the</hi> want <hi>of all other</hi> rankes <hi>may be ſupplied out of your</hi> abun<g ref="char:EOLhyphen"/>dance. <hi>We have amongst us the</hi> worſt of evils, A CIVILL
+<pb facs="tcp:154865:3"/>
+WARRE. A KINGDOME DIVIDED AGAINST IT SEEFE. <hi>The Nations round about us might juſtly apply St.</hi> Pauls <hi>reproofe of the</hi> Corinthians <hi>unto us with a very little alteration</hi> *. <hi>And how can we chooſe but apply</hi> 
+               <note place="margin">Cor. 6. 5, 9.</note> 
+               <hi>it unto our ſelves? It may be ſaid of</hi> England <hi>now as</hi> * <hi>one ſometime ſaid of</hi> France, THAT THERE IS MORE <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> de Cle<g ref="char:EOLunhyphen"/>g<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is de lapſu <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eparatione <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. cap.</hi> 10.</note> RIGHTEOUSNESSE IN HELL, THEN IN THIS KINGDOME. <hi>For there norighteous man is af<g ref="char:EOLhyphen"/>flicted, nor any wicked man puniſhed unrighteouſly: but here good and evill men are all involved in common miſeries, and ſuffer either on the one ſide, or on the other, and too often by both. I ſpeake not this either to blame Gods righteous judge<g ref="char:EOLhyphen"/>ments, or your neceſſary defence of your ſelves, and endea<g ref="char:EOLhyphen"/>vours to ſuppreſſe the Forces raiſed againſt you; but to re<g ref="char:EOLhyphen"/>preſent the moſt miſerable condition of this diſtreſſed, and almoſt-utterly-deſtroyed</hi> Kingdome. <hi>As touching outward meanes to redreſſe theſe grievances, our hopes are in</hi> your wiſdome, WHO ARE MEN THAT HAVE UN<g ref="char:EOLhyphen"/>DERSTANDING OF THE TIMES, TO KNOW WHAT ISRAEL OUGHT TO DOE *. <hi>And ſup<g ref="char:EOLhyphen"/>poſe</hi> 
+               <note place="margin">Chro. 12. 3<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> the Lord <hi>ſhould be ſo</hi> gracious <hi>unto us, that we might have juſt occaſion</hi> to beate our Swords into Plowſhares, and our Speares into Pruning-hookes *, <hi>which is the un<g ref="char:EOLhyphen"/>fained</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 4. 3.</note> 
+               <hi>deſire of all the</hi> well-affected; <hi>there is a further taske to try</hi> your wiſdome. <hi>For what is it that is expected from you as choſen inſtruments under God for his ſpeciall ſervice in theſe daies? Surely no leſſe, (if I may uſe that Scripture phraſe proverbially, as ſome interpret it)</hi> * <hi>then</hi> a new <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation.</note> Heavens, and a new Earth, wherein dwelleth righteouſ<g ref="char:EOLhyphen"/>neſſe. <hi>That is,</hi> A REFORMED CHURCH, A RE<g ref="char:EOLhyphen"/>FORMED COMMON-WEALTH. <hi>For the</hi> one, <hi>we have had the</hi> name <hi>a long time, (as</hi> Sardis <hi>had a name to live,</hi>
+               <pb facs="tcp:154865:3"/>
+               <hi>and was dead.) And for the</hi> thing, <hi>we had it</hi> in part, <hi>now we would have it</hi> intirely, and without mixture. The other, <hi>viz.</hi> the Common-wealth <hi>muſt be ſuteable to the former. It's a charge laid upon thoſe Worthies who laboured for</hi> re<g ref="char:EOLhyphen"/>formation <note place="margin">* By Dr. <hi>Jack<g ref="char:EOLhyphen"/>ſon.</hi>
+               </note> 
+               <hi>in the daies of</hi> QUEENE ELIZABETH OF BIESSED MEMORY, <hi>and after, as if they had wink'd at the corruptions of the State which were knowne and certaine, and pretended to ſingular holineſſe in the buſi<g ref="char:EOLhyphen"/>neſſe of</hi> Religion <hi>as it is ſtrictly conſidered. It ought there<g ref="char:EOLhyphen"/>fore to be the leſſe offenſive if the</hi> Watchmen <hi>of this preſent generation do ſound their Trumpets louder than heretofore, and cry out in good earneſt for</hi> A REALL REFORMATI<g ref="char:EOLhyphen"/>ON, <note n="*" place="margin">The ſubſtanc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Cove<g ref="char:EOLhyphen"/>nant.</note> 
+               <hi>as among themſelves, and in things Eccleſiaſticall, ſo in</hi> your ſelves <hi>likewiſe, and in all affaires and buſineſſes whatſoever.</hi> Be not deceived, God is not mocked. <hi>It will not be taken at our hands</hi> that our goodneſſe be like the morning dew, <hi>or that we ſhould be like</hi> Ephraim, a Cake halfe baked. <hi>God requires more. He promiſes grace for more. The</hi> Word, <hi>and the</hi> Rod, <hi>in both which God ſtretches out his hand and ſays,</hi> Behold me, behold me, <hi>muſt teach us</hi> to perfect holineſſe in the feare of God. <hi>The</hi> NOBLES OF BOHEMIA <hi>in the preface before the confeſſion of their Faith rehearſe ſome</hi> propheticall paſſages <hi>of their Mi<g ref="char:EOLhyphen"/>niſters; and particularly, the words of</hi> JOHN Hus, <hi>to this effect:</hi> 
+               <note n="*" place="margin">
+                  <hi>Corpus &amp; S tagma Confeſſ<g ref="char:EOLunhyphen"/>num,</hi> part 2 p. 224.</note> We <hi>(ſpeaking of himſelfe, and other teachers of that age)</hi> as yet goe but about the ſurface of the buſi<g ref="char:EOLhyphen"/>neſſe, and ſee as it were through Latices, or a Cloud, not piercing to the inward parts: but a people ſhall ſuc<g ref="char:EOLhyphen"/>ceed which ſhall dive into the bottome of the buſineſſe, and build on the ſolid foundation. Yet this muſt be done by little and little. And it ſhall be effected with great preſſure and affliction, and with exceeding difficulty. <hi>All this is very conſo<gap reason="illegible" resp="#APEX" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> to Scripture and experience, and</hi>
+               <pb facs="tcp:154865:4"/>
+               <hi>therefore the more to be heeded. Reformation muſt proceed from one degree to another,</hi> TILL THE LAMBES WIFE HAVE MADE HER SELFE READY, &amp;c. <note n="*" place="margin">Rev. 19. 7.</note> 
+               <hi>And untill thoſe other prophecies be accompliſhed which I ſhall but point you to peruſe, and that becauſe they concerne</hi> both States. <hi>Iſatah</hi> 1. 25, 26, 27. <hi>Revel.</hi> 11. 15.</p>
+            <p>
+               <hi>If the queſtion be,</hi> When ſhall theſe things be? <hi>It muſt needs be anſwered</hi> in part <hi>with the words of Chriſt,</hi> It is not for you to know the times and ſeaſons which the Father hath put in his owne power <note n="*" place="margin">Acts 1. 7.</note>. <hi>And yet it muſt alſo be</hi> ad<g ref="char:EOLhyphen"/>ded, <hi>that the time for us to endeavour it is</hi> now, even while it is called to day.</p>
+            <p>
+               <hi>For our parts who are</hi> Miniſters, <hi>we know it, and rejoyce in it.</hi> Chriſt muſt increaſe, we muſt decreaſe, <hi>untill the time come,</hi> That the Moone ſhall be confounded, and the Sunne aſhamed, when the Lord of Hoſts ſhall reigne in Mount Sion, and in Jeruſalem, and before his ancients gloriouſly <note n="*" place="margin">See <hi>Calvin</hi> on Iſaiah 24. 23.</note>.</p>
+            <p>
+               <hi>As for you that are</hi> Magiſtrates, <hi>and now ſitting in the</hi> Supreame judicatory of this Kingdome, <hi>I beſeech you to conſider what is expected of you, and from you. Shall tyranny, bribery, oppreſſion, partiality, covetouſneſſe eſcape unpuniſhed, or remaine unreformed any where? Will God humble</hi> Mo<g ref="char:EOLhyphen"/>narchy, <hi>and deſtroy</hi> arbitrary government <hi>every where, (as certainely he will) and let inferiour Magiſtrates degene<g ref="char:EOLhyphen"/>rate into the ſame ſinnes? Muſt ſcandalous Miniſters be caſt out</hi> as unſavoury Salt unto the dung-hill, <hi>and ſhall ſcanda<g ref="char:EOLhyphen"/>lous people live as if they were Lawleſſe?</hi>
+            </p>
+            <p>
+               <hi>All this is but to</hi> praiſe, <note n="*" place="margin">Qui monet ut faciat, &amp;c.</note> encourage, <hi>and</hi> ſtrengthen you <hi>in your holy purpoſes and reſolutions, notwithſtanding the difficulty of the worke in hand, and the</hi> mighty mountaines of oppoſition <hi>which are raiſed in the way. What remaines, but that you be</hi> reall, reſolute, <hi>and</hi> exemplary <hi>in the worke</hi>
+               <pb facs="tcp:154865:4"/>
+               <hi>of reformation. For thus ſaith the Lord.</hi> If ye throughly amend your waies and your doings, if ye throughly exe<g ref="char:EOLhyphen"/>cute judgement betweene a man and his neighbour—. Then will I cauſe you to dwell in this place, in the Land that I gave to your fathers, for ever, and ever <note n="*" place="margin">Jer. 7. 5, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7.</note>. <hi>The Lord furniſh you with all the fruits of his Spirit, whereby you may be enabled hereunto.</hi>
+            </p>
+            <p>
+               <hi>I ſhall not preſume, (that be farre from me) to direct</hi> your wiſdomes <hi>in any part of the great worke which is be<g ref="char:EOLhyphen"/>fore you. Onely touching the meanes of attaining that wiſ<g ref="char:EOLhyphen"/>dome which I have ſpoken of, I beſeech you conſider thoſe words of David</hi> 
+               <note n="*" place="margin">Pſal. 119. 99, 100.</note>. I have more underſtanding then all my Tea<g ref="char:EOLhyphen"/>chers, for thy teſtimonies are my meditation. I under<g ref="char:EOLhyphen"/>ſtood more then my Ancients, becauſe I kept thy pre<g ref="char:EOLhyphen"/>cepts. <hi>I know your buſineſſe is</hi> great, <hi>and your ſpare houres but</hi> a few. <hi>You cannot read</hi> much, <hi>nor it may be pray</hi> long. <hi>Yet even in the Campe</hi> Alexander <hi>would finde time to read</hi> Homer, <note n="*" place="margin">Quintus Cur<g ref="char:EOLhyphen"/>tius.</note> 
+               <hi>and from him he might ſoone learne how to husband time.</hi> 
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. H<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>The bookes of</hi> Samuel, the Kings, <hi>and</hi> Chronicles <hi>are proper for you, and</hi> a key to the Prophets. <hi>There are many prayers with you and for you, but your owne humility and fervency in private will afford you moſt comfort. And that your</hi> practicall wiſdome, <hi>according to the rule of Scripture</hi> may be ſeene and read of all men <hi>in all your proceedings, and a bleſſing from Heaven upon them, is and ſhall ever be the prayer of him who is</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Humbly and affectionately devoted to your ſervice in Chriſt Jeſus.</hi> LAZARUS SEAMAN.</signed>
+            </closer>
+            <pb facs="tcp:154865:5"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:154865:5"/>
+            <head>SOLOMONS CHOICE: OR, A Preſident for KINGS, and PRINCES, and all that are in Authority.</head>
+            <epigraph>
+               <q>
+                  <bibl>1. KINGS chap. 3. verſ. 9.</bibl>
+                  <p>Give therefore thy ſervant an underſtanding heart to judge thy people, that I may diſcerne betweene good and bad: for who is able to judge this thy ſo great a people?</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">F</seg>Or more orderly entrance into the hand<g ref="char:EOLhyphen"/>ling <note place="margin">The Introdu<g ref="char:EOLhyphen"/>ction.</note> of theſe words, and the better under<g ref="char:EOLhyphen"/>ſtanding both of them and of the context, there are <hi>three ſpeciall things</hi> which I ſhall commend unto your preſent obſervation out of this Chapter.</p>
+            <list>
+               <item>1. <hi>Solomons love to God.</hi>
+               </item>
+               <item>2. <hi>Gods love to Solomon.</hi> and</item>
+               <item>3. <hi>The ſpeciall uſe which Solomon made of Gods ſpe<g ref="char:EOLhyphen"/>ciall love unto him.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Solomons love to God</hi> is deſcribed in the third and fourth <note place="margin">The firſt ſpeciall.</note> verſes, and therein there are theſe particulars conſidera<g ref="char:EOLhyphen"/>ble. <hi>Firſt, the ſincerity of it. Secondly, the infirmity which did accompany it.</hi> Theſe are laid downe together in the third verſe. <hi>And thirdly, an inſtance to prove both,</hi> in the fourth verſe.</p>
+            <p>
+               <pb n="2" facs="tcp:154865:6"/>
+               <hi>The ſincerity of his love is contained in theſe words: And Solomon loved the Lord, walking in the Statutes of David his father.</hi> That is, in the ſame Statutes which <hi>David</hi> his fa<g ref="char:EOLhyphen"/>ther walked in <note n="*" place="margin">See 2 Kings 22. 2.</note>. In which words there is both <hi>a direct aſſertion,</hi> He loved the Lord; <hi>and a demonſtration of that which is aſſerted,</hi> He walked in the Statutes of <hi>David</hi> his father. This agrees well with thoſe words of our Savi<g ref="char:EOLhyphen"/>our, <hi>If ye love me, keepe my Commandements.</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohn 14. 15.</note>
+            </p>
+            <p>
+               <hi>The infirmity which did accompany his love, is expreſſed in thoſe words: -Onely he ſacrificed, and burnt incenſe in the high places.</hi> His marrying of <hi>Pharaohs</hi> daughter is no where imputed unto him for a ſinne, <note n="(a)" place="margin">Nuſquam hoc nomine in ſacris literis reprehen<g ref="char:EOLhyphen"/>ditur. Mencchius in loc.</note> becauſe it is ſuppoſed ſhe was before the marriage converted to the true Religion. The 45 Pſalme makes this more then probable.</p>
+            <p>Sacrificing in high places ſeemes to be excuſed in the ſecond verſe, yet not wholly, but in part. <note n="(b)" place="margin">A tanto ſed <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on a toto.</note> The Law of God for ſacrificing in one place onely which God ſhould chooſe, is very expreſſe. <hi>Levit.</hi> 17. 3. <hi>Deut.</hi> 12. 13. And therefore whatſoever might be pleaded from ex<g ref="char:EOLhyphen"/>amples of old, the cuſtome of the times, or the eaſe and benefit of the people, it was a ſinne either to uſe, or ſuffer other places then that one for ſacrifice. Yet as the people in the ſecond verſe, ſo the King in this third <hi>ſeemes to be reprehended</hi> in that regard <note n="(c)" place="margin">Not onely <hi>Cajetan</hi> on the place, but <hi>Tre<g ref="char:EOLhyphen"/>melius</hi> and <hi>Ju<g ref="char:EOLhyphen"/>nius</hi> excuſe <hi>Sa<g ref="char:EOLhyphen"/>lomon;</hi> how ſo<g ref="char:EOLhyphen"/>lidly let the learned judge.</note>. Yet ſuch an infirmity as this might well conſiſt with ſincerity; for we read the like of <hi>Aſa. The high places were not remo<g ref="char:EOLhyphen"/>ved; nevertheleſſe Aſa his heart was perfect with the Lord all</hi> 
+               <note place="margin">1 Kings 15. 14.</note> 
+               <hi>his daies.</hi>
+            </p>
+            <p>By the way let us here take in theſe following Ob<g ref="char:EOLhyphen"/>ſervations:</p>
+            <p n="1">1. <hi>To love God is a matter of ſingular commendation.</hi> 
+               <note place="margin">Inferences from the firſt ſpeciall.</note> This was the brighteſt Diadem in <hi>Solomons</hi> Crowne.
+<pb n="3" facs="tcp:154865:6"/>
+There cannot be a blacker brand then that which is ſet on many in the prophecy concerning theſe latter daies: That they are <hi>lovers of themſelves, and lovers of pleaſures more then lovers of God</hi> 
+               <note n="(a)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 2 Tim. 3. 4. A ſecond infe<g ref="char:EOLhyphen"/>rence.</note>.</p>
+            <p n="2">2. <hi>There is no abſolute perfection to be found in the beſt of Gods ſervants. David</hi> was a man after Gods owne heart, except in the matter of <hi>
+                  <g ref="char:V">Ʋ</g>riah.</hi> That which is ſaid of the Angell and Church of Sardis, <hi>I have not found thy works perfect before God</hi> 
+               <note n="(b)" place="margin">Revel. 3. 2.</note>, may be ſaid of all Magiſtrates, Miniſters, and the beſt Chriſtians. <hi>Cur righteouſneſſes are as filthy rags</hi> 
+               <note n="(c)" place="margin">Iſa. 64. 6.</note>. <hi>If we ſay that we have no ſin, we deceive our ſelves, and the truth is not in us</hi> 
+               <note n="(d)" place="margin">1 John 1. 8. Uſe of the ſe<g ref="char:EOLhyphen"/>cond inference.</note>.</p>
+            <p>Therefore, 1. let us humble our ſelves upon all occa<g ref="char:EOLhyphen"/>ſions, and be ſerious in the worke and buſineſſe of this day, which is <hi>to afflict our ſoules before God</hi> 
+               <note n="(e)" place="margin">Levit. 23. 27</note>.</p>
+            <p>2. Let's be alwaies mortifying of corruption, and die daily to ſinne, and cleanſe our ſelves from all filthineſſe, both of the fleſh and ſpirit; perfecting holineſſe in the feare of God <note n="(f)" place="margin">2 Cor. 7. 1.</note>.</p>
+            <p>3. Let's adde to our faith vertue, and to vertue know<g ref="char:EOLhyphen"/>ledge. <note place="margin">2 Pet. 1. 5.</note>
+            </p>
+            <p>But above all, 4. let's truſt perfectly to the grace of Chriſt <note n="(g)" place="margin">2 Tim. 2. 1.</note>, and reſt wholy and alone upon him, who of God is made unto us <hi>wiſdome, righteouſneſſe, ſancti<g ref="char:EOLhyphen"/>fication</hi> and <hi>redemption</hi> 
+               <note n="(h)" place="margin">1 Cor. 1. 30.</note>. In whom it is that we are <hi>compleat</hi> 
+               <note n="(i)" place="margin">Col. 2. 10. The third In<g ref="char:EOLhyphen"/>ference.</note>.</p>
+            <p n="3">3. Obſerve we further. <hi>God takes notice of all good and evill in his children.</hi> He doth graciouſly diſtinguiſh of their waies. That which is evill, he ſets upon record as evill; yet acknowledges, ownes, and accepts of that mea<g ref="char:EOLhyphen"/>ſure of good which he finds in them, be it more or leſſe. This appeares at large by all Chriſts expreſſions to the ſeaven Churches of Aſia <note n="(k)" place="margin">Rev. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. &amp; 3. chap.</note>.</p>
+            <p>
+               <pb n="4" facs="tcp:154865:7"/>
+The knowledge of it makes much for the praiſe of his <note place="margin">Uſe.</note> Wiſdome and Juſtice, and ſerves both for our humilia<g ref="char:EOLhyphen"/>tion and conſolation: <hi>For our humiliation,</hi> becauſe <hi>all things are naked and open before him with whom we have to doe</hi> 
+               <note n="(a)" place="margin">Heb. 4. 13.</note>. <hi>He is acquainted with all our waies</hi> 
+               <note n="(b)" place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſal. 139. 3.</note>. <hi>For our conſolation,</hi> becauſe <hi>there is no God like unto him for paſſing by tranſgreſſion</hi> 
+               <note n="(c)" place="margin">M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c. 7. 18.</note>. <hi>If he ſhould marke iniquity who ſhould ſtand?</hi> 
+               <note n="(d)" place="margin">Pſal. 130, 3.</note>. As for all the good we do, <hi>we ſhall in no wiſe loſe our reward</hi> 
+               <note n="(e)" place="margin">M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. 10. 42.</note>.</p>
+            <p>
+               <hi>As touching Gods love to Solomon,</hi> it's largely deſcribed <note place="margin">The ſecond ſpeciall.</note> from the fifth verſe to the fifteenth, wherein we have the Hiſtory of a moſt holy and gracious <hi>communication</hi> between God and <hi>Solomon</hi> in a dreame, in which the exub'rancy of Gods love to him appeares by theſe par<g ref="char:EOLhyphen"/>ticulars.</p>
+            <p>
+               <hi>Firſt,</hi> in paſſing over the corruption of the times un<g ref="char:EOLhyphen"/>puniſhed. <note place="margin">The particu<g ref="char:EOLhyphen"/>lars whe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eby Gods love to <hi>Solomon</hi> is ma<g ref="char:EOLhyphen"/>nifeſted.</note>
+            </p>
+            <p>
+               <hi>Secondly,</hi> in communing with him as one friend with another, and that in ſuch a manner as was not ordinary either between God and man, or between God and his owne peculiar people.</p>
+            <p>
+               <hi>Thirdly,</hi> in giving of him liberty to aske what he would. <hi>And God ſaid, aske what I ſhall give thee,</hi> at the fifth verſe; a ſtrong temptation, and yet withall an extraor<g ref="char:EOLhyphen"/>dinary favour, and that which cannot be paralleld. 'Twas a great liberty which <hi>Abraham</hi> tooke to himſelfe in pray<g ref="char:EOLhyphen"/>er, <note place="margin">Gen. 15. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> when he ſaid, <hi>Lord God, what wilt thou give me, ſeeing I goe childleſſes</hi> &amp;c. And God did mightily ſtoope unto that unbeleeving <hi>Ahaz,</hi> in ſaying, <hi>Aske thee a ſigne of the Lord</hi> 
+               <note place="margin">Iſa. 7. 11.</note> 
+               <hi>thy God: aske it either in the depth, or in the height above.</hi> But no inſtance reaches fully unto this, wherein the love <note place="margin">Eph 3. 20.</note> of God was ſo much the greater, becauſe he is <hi>able to doe exceeding abundantly, above all that we aske or thinke</hi> 
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:154865:7"/>
+               <hi>Fourthly,</hi> in guiding of his heart to aske that which was moſt meet. It was eaſie for God to promiſe freely and largely, and to performe accordingly, but it was hard for <hi>Solomon</hi> to aſke that which might become him. <note n="*" place="margin">Nemorite pre<g ref="char:EOLhyphen"/>ca<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur, niſi quem 'Deus incitet ad <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>andum. Pe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Mart.</note> Many have not onely loſt their opportunities but un<g ref="char:EOLhyphen"/>done themſelves by fooliſh requeſts, as <hi>Adonijah.</hi>
+            </p>
+            <p>
+               <hi>Fiftly,</hi> in accepting of his choice. <hi>And the ſpeech pleaſed the Lord, that Solomon had asked this thing,</hi> the tenth verſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>
+               <hi>Laſtly,</hi> in multiplying of his bleſſings upon him beyond all deſert, and expectation. <hi>Behold I have done according to thy Word, loe I have given thee a wiſe and an underſtanding heart, ſo that there was none like thee before thee; neither after thee ſhall any ariſe like unto thee. And I have alſo given thee that which thou haſt not asked; both riches and honour: ſo that there ſhall not be any among the Kings like unto thee, all thy daies.</hi> The 12 and 13 verſes.</p>
+            <p>By all which there is a lively demonſtration, that be<g ref="char:EOLhyphen"/>ſides <note place="margin">An inference from the ſe<g ref="char:EOLhyphen"/>cond ſpeciall.</note> the <hi>common love of God to mankind,</hi> and his <hi>ſpeciall love</hi> towards his Church and children, there is <hi>a ſingular and peculiar love</hi> wherein he abounds towards ſome ac<g ref="char:EOLhyphen"/>cording to his good pleaſure.</p>
+            <p>And this ſerves firſt to manifeſt and magnifie <note n="(a)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>the ex<g ref="char:EOLhyphen"/>ceeding</hi> 
+               <note place="margin">The uſe of that inference.</note> 
+               <hi>riches of his grace,</hi> Eph. 2. 7.</p>
+            <p>As alſo, ſecondly, to quicken us unto a holy emulation amongſt our ſelves, that each of us may ſtrive to be bet<g ref="char:EOLhyphen"/>ter then other, and to doe and ſuffer more for Chriſt, be<g ref="char:EOLhyphen"/>cauſe God can make us more then a proportionable re<g ref="char:EOLhyphen"/>compence, even in point of love.</p>
+            <p>It ſerves alſo, thirdly, to ſhew the reaſon of that va<g ref="char:EOLhyphen"/>riety which is found in Gods providence towards his owne children; ſome rich, ſome poore, ſome noble and ſitting among Princes, others are made the dung and off<g ref="char:EOLhyphen"/>ſcouring of all things, &amp; yet all equally choſen in Chriſt,
+<pb n="6" facs="tcp:154865:8"/>
+called according to his purpoſe, juſtified, adopted, ſancti<g ref="char:EOLhyphen"/>fied, and heires of glory.</p>
+            <p>And yet further, fourthly, to reprove our ſlothful<g ref="char:EOLhyphen"/>neſſe for neglecting God, as uſually we doe. This ſingu<g ref="char:EOLhyphen"/>larity of his love is no matter of diſcouragement, as ſome <note place="margin">
+                  <hi>Dix<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rit fortè q<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſpiam, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur etiam <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> opti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#APEX" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>is n<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> datur? Into datur. Ch<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſtus e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>im dixit, Quicq<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>id <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, &amp;c.</hi> John 14 14. 1 John 5. 14. Rom. 8. 2<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Zich. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 10.</note> may thinke, but rather an invitation and incitement unto all. We have every one of us a full breſt of conſolation in the promiſes, <hi>Aske, and it ſhall be given you, &amp;c.</hi> Mat. 7. 7. <hi>If ye ſhall aske any thing in my name, I will doe it,</hi> ſaith Chriſt our advocate. <hi>And this is the confidence that we have in him, that if we aske any thing according to his will he heareth us.</hi> We have alſo <hi>the ſpirit to helpe our infirmities. The ſpirit of ſupplication and grace.</hi> God doth every day new and ſtrange things for his people. And which of us have not ſome bleſſing or other which we muſt needs ac<g ref="char:EOLhyphen"/>knowledge to be <hi>our own peculiar?</hi>
+            </p>
+            <p>
+               <hi>The third ſpeciall,</hi> and that which is moſt remarkable in <note place="margin">The third ſpeciall.</note> the Chapter is <hi>the ſingular uſe which Solomon made of Gods ſingular love;</hi> That conſiſteth in two particulars:</p>
+            <p>
+               <hi>Firſt,</hi> in improving of it to his owne benefit, and the good of the people which God had committed unto his charge, as in the words of the Text. <hi>Give unto thy ſervant therefore an underſtanding heart, &amp;c.</hi>
+            </p>
+            <p>And <hi>ſecondly,</hi> in improving it to Gods glory (the center wherein all things meet at laſt,) as is declared in the 15 verſe. <hi>And Solomon awoke, and behold it was a dreame; and he came to Jeruſalem and ſtood before the Arke of the Cove<g ref="char:EOLhyphen"/>nant of the Lord, and offered up burnt-offerings, and offered peace offerings, and made a feaſt to all his ſervants.</hi>
+            </p>
+            <p>Oh that there were in every one of us ſuch a heart, that we could improve the evidences of Gods love to us, unto his praiſe and for publique good. Our daies of humiliation wherein we have long waited on the Lord,
+<pb n="7" facs="tcp:154865:8"/>
+and ſtill doe waite, would ſoone be turned into daies of thankeſgiving, according to that promiſe in <hi>Zachary,</hi> chap. 8. verſ. 19. <hi>Thus ſaith the Lord of hoſts, the Faſt of the fourth moneth, and the Faſt of the fifth, and the Faſt of the ſeventh, and the Faſt of the tenth ſhall be to the houſe of Judah joy and gladneſſe, and cheerfull Feaſts.</hi> But alas, <hi>de<g ref="char:EOLhyphen"/>ſtruction upon deſtruction is cried, for the whole Land is ſpoi<g ref="char:EOLhyphen"/>led</hi> 
+               <note n="*" place="margin">Jerem. 4. 20.</note>. And what's the cauſe of all this evill? Even that which followes in the 22 verſe of that Chapter. <hi>For my people is fooliſh, they have not knowne me, they have no under<g ref="char:EOLhyphen"/>ſtanding: they are wiſe to doe evill, but to doe good they have no knowledge.</hi>
+            </p>
+            <p>If it be demanded, what remedy? the anſwer is out of the words of the Text, <hi>Give unto thy ſervant an underſtan<g ref="char:EOLhyphen"/>ding</hi> 
+               <note place="margin">The Text.</note> 
+               <hi>heart, &amp;c.</hi>
+            </p>
+            <p>In which words we have three things to conſider of.</p>
+            <list>
+               <item>1. <hi>Solomons choice, or deſire.</hi>
+               </item>
+               <item>2. <hi>The ground and reaſon of that choice.</hi>
+               </item>
+               <item>3. <hi>The meanes which he uſeth to attaine it.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>His deſire</hi> in generall is an underſtanding heart; and <milestone type="tcpmilestone" unit="unspecified" n="1"/> more eſpecially, an underſtanding heart to judge Gods people, and to diſcerne betwixt good and bad.</p>
+            <p>That is, ability and faithfulneſſe to performe the office and duty of a King towards the people of Iſrael, agreea<g ref="char:EOLhyphen"/>bly to the will of God.</p>
+            <p>
+               <hi>The ground and reaſon of his deſire</hi> is partly the ſenſe of <milestone type="tcpmilestone" unit="unspecified" n="2"/> his owne weakneſſe and inſufficiency, which is intimated here in that exclamation at the cloſe, <hi>For who is able to judge this thy ſo great a people?</hi> and more fully expreſſed in the ſeventh verſe. <hi>I am but a little child: I know not how to goe out, or come in;</hi> and partly alſo from the conſidera<g ref="char:EOLhyphen"/>tion of the people over whom God had ſet him, and that in two particulars: 1. Becauſe they were Gods people.
+<pb n="8" facs="tcp:154865:9"/>
+               <hi>Thy people.</hi> 2. Becauſe they were a great and numerous people <hi>This thy ſo great a people.</hi> Both theſe reaſons are more fully laid downe in the eighth verſe immediately foregoing: for in theſe words <hi>Salomon</hi> ſums up and cou<g ref="char:EOLhyphen"/>ches the ſtrength of all which he had ſaid before. <hi>And thy ſervant is in the middeſt of thy people, which thou haſt choſen, a great people, that cannot be numbred, nor counted for multitude,</hi> verſ. 8.</p>
+            <p>
+               <hi>The meanes which he uſeth to attaine his deſire</hi> is prayer, <note place="margin">3.</note> which here he makes to God in faith, and with a great deale of humility.</p>
+            <p>Some of the Schoolmen, and popiſh Commentators diſpute out of this text, 1. whether <hi>Salomon</hi> had the uſe of free-will in this dreame; and 2. whether he merited at the hands of God by aſking wiſdome <note n="*" place="margin">
+                  <hi>Aquira<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 1. 2. <hi>qu.</hi> 113. <hi>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 3. <hi>ad.</hi> 2. <hi>&amp;</hi> 2. 2. <hi>qu.</hi> 156. <hi>ar.</hi> 5. <hi>ad.</hi> 1. <hi>Cornelius a La<g ref="char:EOLhyphen"/>pide in loc.</hi>
+               </note>; but I ſhall leave them to their dreamings about theſe their ſuppoſed problems. And for the better underſtanding of every tittle in the Text, and that every word may be duely weighed before I ſettle on any point of doctrine, I ſhall endeavour to hold out unto you ſuch obſervations as may the better enable us to comprehend whatſoever it pleaſeth God herein to reach forth to us by his Spirit.</p>
+            <p>The firſt obſervation toward the explication of the <note place="margin">1. Obſervation.</note> words is this: <hi>All the expreſſion; which are uſed in the Text are very ſignificant. Give,</hi> i. e. graciouſly beſtow on me, and worke in me, according to thy free grace, and al<g ref="char:EOLhyphen"/>mighty power.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>nto thy ſervant]</hi> an humble deſcription of himſelfe. Kings are Lords and Maſters towards men, but ſervants towards God. Under his authority. At his command. Set up by his providence. Depoſed at his good pleaſure. <hi>He changeth the times and the ſeaſons: he removeth Kings, and ſetteth up Kings.</hi> In particular we read of <hi>Nebuchadnezzar.</hi> 
+               <note place="margin">Dan. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 21.</note>
+               <pb n="9" facs="tcp:154865:9"/>
+               <hi>He was driven from the ſons of men—till he knew that the moſt high God ruled in the Kingdome of men, and that he ap<g ref="char:EOLhyphen"/>pointed over it, whomſoever he will</hi> 
+               <note n="(b)" place="margin">Dan. 5. 21.</note>. And more general<g ref="char:EOLhyphen"/>ly, the Pſalmiſt ſpeaking of God ſaith, <hi>He ſhall cut off the ſpirit of Princes: he is terrible to the Kings of the earth</hi> 
+               <note n="(c)" place="margin">Pſal. 76. 12.</note> Therefore abſolute power, and to be the ſons of men are abſolutely incompatible, even in thoſe who are cal<g ref="char:EOLhyphen"/>led Gods.</p>
+            <p>
+               <hi>An underſtanding heart]</hi> This expreſſion alſo, ſavors of a great deale of humility. <hi>Cor docile,</hi> ſo the vulgar Latine; <hi>a teachable heart. Cor audiens,</hi> ſo <hi>Arias Montanus,</hi> 
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>a hearing heart.</hi> He preſumes that God would be willing to teach him by his Spirit, but is affraid leſt through corruption he ſhould turne the deafe eare. God offers himſelfe a teacher to many, but they are not willing to learne of him. <hi>-Depart from us, for we deſire not the know<g ref="char:EOLhyphen"/>ledge</hi> 
+               <note place="margin">Job 21. 14.</note> 
+               <hi>of thy waies.</hi> Yet we may not be too curious about the phraſe here; it's plaine enough what <hi>Solomon</hi> meant, both by Gods anſwer, at the 11. and 12. verſes, compa<g ref="char:EOLhyphen"/>red. <hi>Becauſe thou haſt asked this thing,—underſtanding to diſcerne judgement. Behold, I have done according to thy word: lo, I have given thee a wiſe and an underſtanding heart.</hi> And by that other relation which the holy Ghoſt makes in a Chron. 1. 10. <hi>Give me now wiſdome and knowledge, that I may goe out and come in before this people, &amp;c.</hi>
+            </p>
+            <p>It followes in the Text, <hi>to judge]</hi> This one word com<g ref="char:EOLhyphen"/>priſes all the duty of a King, either for peace or warre, at home, or abroad, upon ordinary, or extraordinary occaſions. As in that other place, <hi>Make us a King to judge us, like all the Nations</hi> 
+               <note n="(d)" place="margin">1 Sam. 8. 5. To judge here is <hi>praeeſſe, reg<g ref="char:EOLhyphen"/>nare, imperare, gubernare. vide Barthol. Weſt<g ref="char:EOLhyphen"/>themerum.</hi>
+               </note>. There be ſeverall waies of judging which your ſelves are experimentally acquain<g ref="char:EOLhyphen"/>ted with. I'le ſay nothing of the particular kinds. All are here included, and in all, even in the loweſt,
+<pb n="10" facs="tcp:154865:10"/>
+about ſmalleſt matters there is need of wiſdome.</p>
+            <p>
+               <hi>Thy people] Solomon</hi> ſeemes to be much affected with this conſideration, and therefore we ſhould take the more notice of it. <hi>All people</hi> are <hi>Gods people</hi> by Creation, and generall Providence, but Iſrael were his <hi>peculiar people.</hi> Yea, <hi>a peculiar treaſure unto him above all people—A Kingdome of Prieſts, and a holy Nation</hi> 
+               <note n="(b)" place="margin">Exod. 19 5, 6 v<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> R<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pect muſt <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> had to Saints as S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ints:</note>. <hi>The more Saints therefore there are in a Kingdome, the more care ſhould be taken for governing of them with reſpect unto their Saintſhip.</hi> It's Chriſt his glory to be <hi>King of Saints</hi> 
+               <note n="*" place="margin">Rev. 15. 3.</note>; and it is the glory of all Kingdomes to have Saints for Subjects. To be King of <hi>Men</hi> is ſomething. To be King of <hi>Nations</hi> is grea<g ref="char:EOLhyphen"/>ter. To be King of <hi>Chriſtians</hi> is the height of all. This therefore doth ſadly aggravate the ſinnes of many Go<g ref="char:EOLhyphen"/>vernours in theſe latter ages, that all the injuries which they doe unto their ſubjects, are done to Chriſtians, to Gods people, by ſuch as profeſſe themſelves to be Chriſtians.</p>
+            <p>
+               <hi>That I may diſcerne betweene good and bad]</hi> This relates both to <hi>perſons,</hi> and <hi>things.</hi> Different things, and diffe<g ref="char:EOLhyphen"/>rent perſons, require different adminiſtrations. There is a ſhew of wiſdome in folly, and an appearance of evill in the greateſt good. <hi>Princes,</hi> and all that are in autho<g ref="char:EOLhyphen"/>rity, uſe to be haunted with flatterers, and evill-coun<g ref="char:EOLhyphen"/>ſellors, therefore they have need of a diſcerning ſpirit.</p>
+            <p>
+               <hi>For who is able to judge this thy ſo great a people?] A great people, that cannot be counted, nor numbred for multitude.</hi> As in the latter end of the eighth verſe. <hi>Solomon</hi> admires the multitude of his Subjects. They were <hi>his glory</hi> 
+               <note n="(a)" place="margin">Prov. 14. 28.</note> in one ſenſe, but they are alſo his feare and care, and make his burthen the heavier. He ſeemes to deſpaire in himſelfe, as well he might, at the greatneſſe of his charge. Now<g ref="char:EOLhyphen"/>adaies the <hi>Great ones</hi> of the World thinke they never
+<pb n="11" facs="tcp:154865:10"/>
+have ſubjects enough unleſſe they could conquer all the World, yea all Worlds. <hi>Alexander wept to heare of more than one, becauſe he had not as yet conquered one.</hi> As ſome men joyne houſe to houſe, ſo doe others joyne King<g ref="char:EOLhyphen"/>dome to Kingdome. <hi>The Catholicke King would faine be a Catholicke Monark.</hi> But <hi>Solomons</hi> heart akes within him to conſider the greatneſſe of one Nation, which, as it was <hi>the ſmalleſt of all people in the beginning</hi> 
+               <note n="(b)" place="margin">Deut. 7. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>, ſo it was never to be accounted of in compariſon with thoſe who were under one of the foure Monarchies. <hi>An humble heart takes a true eſtimate of difficulties as they are,</hi> and ſuch a heart God had graciouſly given unto <hi>Solomon. And thus far of the ex<g ref="char:EOLhyphen"/>preſſions and their ſignificancy, which fall under the firſt Obſervation.</hi>
+            </p>
+            <p>
+               <hi>The ſecond Obſervation is this: Solomon diſputes not upon</hi> 
+               <note place="margin">2. Obſervation.</note> 
+               <hi>the words of God,</hi> 
+               <note n="*" place="margin">Nec petiit, ne<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> expectavit deli<g ref="char:EOLhyphen"/>berandi ſpatium. Pet. Mar.</note> either on the meaning of them, or of the ſecret intention of God, whether it was to try him, or otherwiſe; much leſſe of Gods power, or faithfulneſſe: but in <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ull aſſurance of faith</hi> he cloſes with the promiſe implied in the command, and improves the liberty which God had granted him with all <hi>holy boldneſſe.</hi> Oh that we were like minded in reference to all the <hi>great</hi> and <hi>preci<g ref="char:EOLhyphen"/>ous promiſes</hi> which are ſpread before us in the <hi>Scripture. Open thy mouth wide,</hi> (ſaith God) <hi>and I will fill it</hi> 
+               <note n="(c)" place="margin">Pſal. 81. 10.</note>. <hi>Con<g ref="char:EOLhyphen"/>cerning my ſons, and daughters, command ye me</hi> 
+               <note n="(d)" place="margin">Iſa. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5. 11.</note>. <hi>Call upon me in the day of trouble, I will deliver thee</hi> 
+               <note n="(e)" place="margin">Pſal. 50. 15.</note>.</p>
+            <p>
+               <hi>A third Obſervation. Solomons heart was ſecretly guided</hi> 
+               <note place="margin">3. Obſervation.</note> 
+               <hi>by God to aske wiſdome.</hi> It's a ſpeciall favour from God, to have grace whereby we may be able to aſke things which are meet for us, and things <hi>agreeable to his will</hi> 
+               <note n="(f)" place="margin">1 John 5. 14.</note>. There are ſome (too many) <hi>who whiſper into the eares of God ſuch deſires as are not fit to be named</hi> 
+               <note n="*" place="margin">Qui <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urpiſſim<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vota d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inſu<g ref="char:EOLhyphen"/>ſurrunt Seneca.</note>. <hi>Ye aske, and have not, becauſe ye aske amiſſe, that ye may conſume it upon</hi>
+               <pb n="12" facs="tcp:154865:11"/>
+               <hi>your luſts,</hi> ſaith St. <hi>James</hi> 
+               <note n="(b)" place="margin">James 4. 3.</note>. Gods children are in a dou<g ref="char:EOLhyphen"/>ble reſpect beholding unto God in point of prayer, for teaching of them to pray, as well as for hearing prayers. The Lord in mercy vouchſafe us this grace, on this <hi>day of prayer,</hi> and then we ſhall have no occaſion to com<g ref="char:EOLhyphen"/>plaine as thoſe wicked ones in <hi>Job, -What profit ſhould we have if we pray unto him?</hi> 
+               <note n="(c)" place="margin">J<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b 21. 15.</note> Or as thoſe hypocrites in Iſaiah, <hi>Wherefore have we faſted, ſay they, and thou ſeeſt not? wherefore have we afflicted our ſoule, and thou takeſt no know<g ref="char:EOLhyphen"/>ledge?</hi> 
+               <note n="(d)" place="margin">Iſa. 58. 3.</note> but to conclude as <hi>David</hi> begins. <hi>I love the Lord: becauſe he hath heard my voyce, and my ſupplica<g ref="char:EOLhyphen"/>tions</hi> 
+               <note n="(e)" place="margin">Pſal. 116. 1.</note>.</p>
+            <p>
+               <hi>The fourth is this. His requeſt ſavours of many excellent</hi> 
+               <note place="margin">4. Obſervation.</note> 
+               <hi>graces.</hi> Of faith (as we have ſeene already) and of humi<g ref="char:EOLhyphen"/>lity, but eſpecially of wiſdome. <hi>He askes wiſdome, with a great deale of wiſdome.</hi> Wiſdome proper and peculiar for him. Wiſdome to governe. That which was moſt neceſ<g ref="char:EOLhyphen"/>ſary for him. All that was neceſſary, and no more. He hath reſpect to his <hi>perſon,</hi> to his <hi>office,</hi> to the <hi>people,</hi> as they were <hi>his</hi> in one ſenſe to rule and governe under God, but eſpecially as they were <hi>Gods.</hi> 'Twas not for nothing that his father ſaid of him, <hi>Thou art a wiſe man, and knoweſt what thou oughteſt to doe unto him</hi> 
+               <note n="(f)" place="margin">1 Kings 29. H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d not <hi>Solo<g ref="char:EOLunhyphen"/>mon</hi> been wiſe before, he had not known the worth of wiſ<g ref="char:EOLhyphen"/>dome. <hi>Hall</hi> his contemplati<g ref="char:EOLhyphen"/>ons, 17 booke.</note>. Sometime we have the graces which we ſeeme to want. If <hi>Solomon</hi> had not received wiſdome for government, yet he had wiſdome to pray, and in prayer to preferre the choice of wiſdome before other things. If we had all more wiſ<g ref="char:EOLhyphen"/>dome in prayer, we might ſpeed better, if it were but ſo much as <hi>Bernard</hi> had, to ſay, <hi>Lord thou that giveſt grace to the humble, give me grace to be humble</hi> 
+               <note n="*" place="margin">Domine qui das gratiam humili<g ref="char:EOLhyphen"/>bus, da gratiam ut ſim humilis. Bern.</note>.</p>
+            <p>
+               <hi>The fifth Obſervation. Solomon is not at all ſollicitous for himſelfe, his Honour and Prerogative, but truſts God with all of that kind.</hi> All the care which he takes is for the diſ<g ref="char:EOLhyphen"/>charge <note place="margin">1. Obſervation.</note>
+               <pb n="13" facs="tcp:154865:11"/>
+of his duty. Happy were it for all Nations, if thoſe who ſucceed him in like Office did inherit from him ſuch a diſpoſition. <hi>Princes</hi> would be more honou<g ref="char:EOLhyphen"/>rable both in life and death, in themſelves, and in their poſterity then uſually they are. <hi>Jeroboam</hi> corrupted Religion to ſecure the Kingdome, as many in our daies have turned Papiſts, or hankered that way for ſuch an end. But <hi>the onely means to eſtabliſh a King upon his Thron is to be conſcionable in his place.</hi> How large a promiſe is that which God made even unto <hi>Jeroboam,</hi> by <hi>Ahijah</hi> 
+               <note n="*" place="margin">1 Kings 11. 38</note>? <hi>And it ſhall be, if thou wilt hearken unto all that I command thee, and wilt walke in my waies, and doe that which is right in my ſight, to keepe my Statutes, and my Commandements, as David my ſervant did, that I will be with thee, and build thee a ſure houſe, as I built for David, and will give Iſrael unto thee.</hi> The booke of <hi>Proverbs</hi> ſpeakes frequently, and with ſtrong aſſeveration to this purpoſe. <hi>It is an abomination to Kings</hi> 
+               <note place="margin">Prov. 16. 12.</note> 
+               <hi>to commit wickedneſſe, for the Throne is eſtabliſhed by righte<g ref="char:EOLhyphen"/>ouſneſſe. The King that faithfully judgeth the poore, his Throne</hi> 
+               <note place="margin">Chap. 29. 14.</note> 
+               <hi>ſhall be eſtabliſhed for ever.</hi>
+            </p>
+            <p>But where is the man of any ranke or quality, who makes matter of duty his maine care? And if it be a fault, as queſtionleſſe it is, in the <hi>Higheſt on Earth,</hi> to ſeeke themſelves, or to ſtand too much upon their honour, and particular intereſts, what ſhall we ſay or thinke of thoſe who are of inferiour ranke and quality, not fit to be na<g ref="char:EOLhyphen"/>med when Kings are ſpoken of, and yet are guilty in this kind? The glory of God, the ſervice of the State, and the good of the whole Kingdome, would be much more promoted then it is, were it not for thoſe ſhamefull and inexecuſable conteſtations which are betweene thoſe who are otherwiſe moſt <hi>Honourable,</hi> and <hi>well-deſerving,</hi> about points of honour, and by-reſpects.</p>
+            <p>
+               <pb n="14" facs="tcp:154865:12"/>
+               <hi>The ſixt Obſervation. The King here makes no queſtion but</hi> 
+               <note place="margin">6. Obſervation.</note> 
+               <hi>God had grace and wiſdome enough in ſtore, to enable him for his Kingly Office, that he might bring glory to God, and be a bleſſing to Iſrael in the diſcharge of it.</hi>
+            </p>
+            <p>And therefore <hi>Kingly government</hi> is not ſimply, and for it ſelfe to be excepted againſt. <hi>The Queene of Sheba's</hi> in<g ref="char:EOLhyphen"/>ference was very good. <hi>-Becauſe the Lord loved Iſrael for ever, therefore made he thee King, to doe judgement and ju<g ref="char:EOLhyphen"/>ſtice</hi> 
+               <note n="(a)" place="margin">1 Kings 10. 7.</note>. It was part of the <hi>ſpeciall bleſſedneſſe</hi> promiſed unto <hi>Abraham, That Kings ſhould come out of him.</hi> And to <hi>Sarai,-Yea I will bleſſe her, and ſhe ſhall be a mother of Nati<g ref="char:EOLhyphen"/>ons: Kings of people ſhall be of her</hi> 
+               <note n="(b)" place="margin">Gen 17. 6. 16.</note>. Chriſt rejoyces in it as part of his glory, that <hi>by him Kings reign<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and Princes decree juſtice</hi> 
+               <note n="(c)" place="margin">Prov. 8. 15.</note>. He himſelfe was a <hi>King,</hi> and hath there<g ref="char:EOLhyphen"/>by ſanctified that calling and eſtate. The benefit of this <hi>kind of government</hi> is as fully aſſerted in the <hi>Scripture</hi> as of any other. <hi>A King that ſitteth in the Throne of Jud<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ement ſcattereth away all evill with his eyes</hi> 
+               <note n="(d)" place="margin">Prov. 20. 8. 26.</note>. And in the ſame Chapter, <hi>A wiſe King ſcattereth the wicked, and driveth the wheele over them.</hi> What ſhall we ſay to thoſe moſt conſide<g ref="char:EOLhyphen"/>rable places in <hi>Jeremy,</hi> wherein God ſeemes to ſet out all the dimenſions of his love toward his people the <hi>Jewes? And it ſhall come to paſſe, if ye diligently hearken unto me, ſaith the Lord, to bring in no burden through the gates of this City on the Sabbath day, but hallow the Sabbath day, to doe no work therein: Then ſhal there enter into the gates of this City Kings, &amp; Princes ſitting upon the Thron of David, riding in Charets, &amp;c.</hi> 
+               <note n="(e)" place="margin">Jer. 17. 24, 25.</note> It ſeemes therefore that profanation of the Sab<g ref="char:EOLhyphen"/>bath is very prejudiciall unto Kings, and the true ſanctifi<g ref="char:EOLhyphen"/>ers <note place="margin">Note.</note> of it are their beſt friends. It follows in the ſame book, <hi>-Thus ſaith the Lord, Execute you judgment and righteouſneſſe, deliver the ſpoiled out of the hand of the oppreſſor: and doe no wrong, doe no violence unto the ſtranger, the fatherleſſe, nor</hi>
+               <pb n="15" facs="tcp:154865:12"/>
+               <hi>the widdow, neither ſhed innocent blood in this place. For if ye doe this thing indeed, then ſhall there enter in by the gates of this houſe, Kings ſitting upon the Throne of David, riding in Charets, and on horſes, he and his ſervants, and his peo<g ref="char:EOLhyphen"/>ple</hi> 
+               <note n="(a)" place="margin">Jer. 22. 4.</note>. By all which it's more then manifeſt, that as it was never worſe with that people, then when there was <hi>no King in Iſrael</hi> 
+               <note n="(b)" place="margin">Judg. 21. 25.</note>, ſo it ſhould never be better then when God beſtowed a King on them, as the fruit and re<g ref="char:EOLhyphen"/>compence of their obedience. Among the <hi>glorious things</hi> which are <hi>promiſed unto the Church of God,</hi> to be enjoyed <hi>in the latter ages</hi> of the world, this is <hi>one,</hi> and a principall meanes which is ordained towards the compleating of her happineſſe, <hi>that Kings ſhall be her nurſing fathers, and Queens her nurſing mothers</hi> 
+               <note n="(c)" place="margin">Iſa. 49. 23.</note>. <hi>That the ſonnes of ſtrangers ſhall build up her walls, and their Kings ſhall miniſter unto her</hi> 
+               <note n="(e)" place="margin">Ch. 60. 10.</note>. When the <hi>New-Jeruſalem</hi> ſhall come downe from God, Kings ſhall be no hinderance, <hi>but ſhall bring their honour and glory into it</hi> 
+               <note n="(f)" place="margin">Rev. 21. 24.</note>. And therefore the moſt exact reformation in the <hi>Church</hi> may well conſiſt with this kind of government in the State, and the folly of that Proverbe will in due time appeare to all the world, <hi>No Biſhop, no King.</hi>
+            </p>
+            <p>We have therefore the more cauſe to be humbled this <note place="margin">Speciall matter of humiliation.</note> day for all the evill which befals us under ſuch a govern<g ref="char:EOLhyphen"/>ment. The cry of ſuch as are rob'd, and ſpoil'd, or im<g ref="char:EOLhyphen"/>poveriſhed, is loud; the cry of the widdows, and father<g ref="char:EOLhyphen"/>leſſe is farre greater. There is abundance of innocent blood ſhed in the Land. <hi>The green tree and the dry are both caſt into the fire. The circumciſed and uncircumciſed are viſi<g ref="char:EOLhyphen"/>ted in like manner.</hi> We muſt needs take that in <hi>Ezekiel</hi> unto our ſelves. <hi>Behold I am againſt thee, and will draw forth my Sword out of his ſheath, and will cut off from thee the righ<g ref="char:EOLhyphen"/>teous and the wicked</hi> 
+               <note n="(g)" place="margin">Ezel. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>. That judgement which is threat<g ref="char:EOLhyphen"/>ned
+<pb n="16" facs="tcp:154865:13"/>
+in <hi>Zachary</hi> lies heavy upon this Kingdome. <hi>I will no more pitty the inhabitants of the Land, ſaith the Lord: but lo, I will deliver the men, every one into his neighbours hand, and into the hand of his King, and they ſhall ſmite the Land, and out of their hand I will not deliver them</hi> 
+               <note n="(a)" place="margin">Z<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 6.</note>. God hath cut aſunder his ſtaffe, <hi>Beauty,</hi> by withdrawing his wonted Providence toward us; and his ſtaffe, <hi>Bands,</hi> by breaking the brotherhood betwixt one part of the people and another. <hi>It ſhames me to ſpeake of theſe things without teares of blood.</hi> But what might be the cauſe of all this evill?</p>
+            <p>In the maine quarrell, I am confident we may plead our innocency, and ſay with <hi>David</hi> in the caſe betweene him and <hi>Saul. -Judge me, O Lord, according to my righteouſ<g ref="char:EOLhyphen"/>neſſe, and according to mine integrity that is in me</hi> 
+               <note n="(b)" place="margin">Pſal. 7. 8.</note>. But ſurely the ſins of the one party, are not the adequate cauſe of the judgement on both. What ſay's God? <hi>Oh that my people had hearkned unto me, and that Iſrael had wal<g ref="char:EOLhyphen"/>ked in my waies. I ſhould ſoone have ſubdued their enemies,</hi> 
+               <note place="margin">Pſal. 8<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 13, 14, 15.</note> 
+               <hi>and turned my hand againſt their adverſaries. The haters of the Lord ſhould have ſubmitted themſelves unto him</hi> -And <hi>Solomon, When a mans waies pleaſe the Lord, he maketh his</hi> 
+               <note place="margin">Prov. 16. 7.</note> 
+               <hi>enemies to be at peace with him.</hi> We muſt needs conclude therefore, that our waies are ſinfull, crooked, <hi>waies that are not good,</hi> ſeeing ſo many who were our friends are become our enemies. And we alſo may ſay, <hi>We have no King becauſe we feared not the Lord; what then ſhould a</hi> 
+               <note place="margin">Hoſ. 10. 3.</note> 
+               <hi>King doe to us? And if we ſhall ſtill doe wickedly, we ſhall be conſumed, both we, and our King.</hi> 
+               <note place="margin">1 Sam. 12. 25.</note>
+            </p>
+            <p>Yet one Obſervation more to comfort us a little. <hi>So<g ref="char:EOLhyphen"/>lomon</hi> 
+               <note place="margin">7. Obſervation.</note> 
+               <hi>is very confident that his heart was in Gods hands.</hi> Either to blind, or inlighten, to mollifie, or to harden, to make him a bleſſing to Iſrael, or a judgement.</p>
+            <p>Let not us therefore deſpaire, either in regard of our ſelves,
+<pb n="17" facs="tcp:154865:13"/>
+or <hi>Our King.</hi> He that made <hi>Eſau,</hi> and <hi>Laban</hi> relent to<g ref="char:EOLhyphen"/>wards <note place="margin">Geneſ. 33. 4. 31. 29.</note> 
+               <hi>Jacob:</hi> That cauſed <hi>Saul</hi> to acknowledge unto <hi>David, Thou art more righteous than I: for thou haſt rewar<g ref="char:EOLhyphen"/>ded me good, where as I have rewarded thee evill.</hi> And gave <note place="margin">1 Sam. 24. 17.</note> 
+               <hi>Daniel</hi> ſo large a roome in the affections of <hi>Darius,</hi> not<g ref="char:EOLhyphen"/>withſtanding the conſpiracy of evill-counſellors againſt him. And <hi>he that gave his people favour in the eyes of thoſe</hi> 
+               <note place="margin">Dan. 6. 20.</note> 
+               <hi>who carried them captives,</hi> even that <hi>great heart-commander</hi> 
+               <note place="margin">Pſal. 106. 46.</note> is able to ſet us all right in the apprehenſions and affecti<g ref="char:EOLhyphen"/>ons of <hi>Him</hi> who is now too many waies at diſtance from us. We have a divine teſtimony to build our faith upon. <hi>The Kings heart is in the hand of the Lord, as the rivers of water: he turneth it whitherſoever he will.</hi> And many in<g ref="char:EOLhyphen"/>ſtances <note place="margin">Prov. 21. 1.</note> to ſtrengthen our faith by. Almoſt all the <hi>Perſian Kings.</hi> Before them the <hi>Babilonian Monark,</hi> (that <hi>head of gold,</hi> and <hi>heart of ſtone,)</hi> to ſay nothing of <hi>Pharaoh</hi> the Egyptian. How wonderfull is that paſſage concer<g ref="char:EOLhyphen"/>ning <hi>Amphilochius</hi> of Iconium, <note n="*" place="margin">
+                  <hi>Theodoretus hiſt. Eccleſ. lib.</hi> 5 <hi>cap.</hi> 16.</note> who changed the <hi>Arrian Emperors</hi> heart, by denying that reverence to his ſonne which he expected ſhould be given him? But conſider what the <hi>Scripture</hi> ſays further:</p>
+            <p>
+               <hi>Righteous lips are the delight of Kings, and they love him that ſpeaketh right.</hi> Prov. 16. 13.</p>
+            <p>
+               <hi>He that loveth pureneſſe of heart, for the grace of his lips the King ſhall be his friend.</hi> Prov. 22. 11.</p>
+            <p>I ſhall not need to ſpeake of theſe by way of applica<g ref="char:EOLhyphen"/>cation. By this time there is ſufficient light given, as I hope even to the inſide of the Text. But a maine part of the worke is yet behind, which is to raiſe ſome <hi>Doctrines,</hi> and give in the <hi>
+                  <g ref="char:V">Ʋ</g>ſes</hi> of them. I ſhall but name the points and open them a little, and though they be ſeverall, apply them all as one.</p>
+            <p n="1">1. <hi>The office and duty of Governours (Kings or others) is</hi> 
+               <note place="margin">The Doctrines</note>
+               <pb n="18" facs="tcp:154865:14"/>
+               <hi>to judge the people committed to their charge, and to diſcerne between good and bad.</hi> That's the firſt.</p>
+            <p n="2">2. The ſecond. <hi>All that beare ſuch Office have ſpeciall need of wiſdome.</hi>
+            </p>
+            <p n="3">3. A third. <hi>Wiſdome is to be deſired rather then any out<g ref="char:EOLhyphen"/>ward bleſſing, but eſpecially wiſdome for government in Governours.</hi>
+            </p>
+            <p>The fourth and laſt is this: <hi>One ſpeciall meanes to attaine unto wiſdome is prayer.</hi>
+            </p>
+            <p>I ſhall not need to proſecute any of theſe points at large, it will ſuffice to ſpeake ſomething of every one of them mixtly, rather <hi>to worke them into the heart</hi> by ſome quickning explication, then by reaſons and demonſtrati<g ref="char:EOLhyphen"/>ons <hi>to perſwade the underſtanding.</hi>
+            </p>
+            <p>The firſt Doctrine preſents the duty of Governours in <note place="margin">1. <hi>Doctr.</hi> The duty of Governours. 1. part to judge their people.</note> two ſummary expreſſions, or a twofold duty. The firſt is <hi>to judge.</hi> The ſecond, <hi>To diſcerne betweene good and bad.</hi> If the <hi>queſtion</hi> be, what it is that ſuch as are in authority have to doe? here is the <hi>anſwer.</hi> Not to exerciſe an ar<g ref="char:EOLhyphen"/>bitrary power over mens goods, and perſons, eſtates and lives. Nor to gather up abundance of treaſure for them<g ref="char:EOLhyphen"/>ſelves and their poſterity, and much leſſe to oppreſſe and tyrannize. It was an expreſſe Law of God concerning the Kings of Iſrael. <hi>That they ſhould not greatly multiply to themſelves Silver and Gold.</hi> Which was not intended <note place="margin">Deut. 17. 17.</note> onely as a reaſon why they might not chooſe a ſtranger tobe King, as <hi>Philo</hi> the Jew ſuppoſed, but rather as a cau<g ref="char:EOLhyphen"/>tion to teach <hi>Princes</hi> humility, and moderation. <hi>That their</hi> 
+               <note place="margin">
+                  <hi>Phile. de creatio<g ref="char:EOLhyphen"/>ne Principi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> verſ. 20.</note> 
+               <hi>hearts might not be lifted up above their brethren. Daniel</hi> ſpeaking of <hi>Nebuchadnezzar</hi> ſays of him, <hi>Whom he would</hi> 
+               <note place="margin">Dan. 5. 19.</note> 
+               <hi>he ſlew, and whom he would he kept alive, &amp;c.</hi> But therein he relates not <hi>jus regis</hi> but <hi>factum.</hi> Not what was done as of <note place="margin">Rolloc in loc.</note> 
+               <hi>right,</hi> but what uſed to be done by <hi>uſurpation. He which ru<g ref="char:EOLhyphen"/>leth</hi>
+               <pb n="19" facs="tcp:154865:14"/>
+               <hi>over men muſt be juſt. Moſes</hi> in the <hi>Law</hi> ſpeaking to <hi>Jud<g ref="char:EOLhyphen"/>ges</hi> 
+               <note place="margin">2 Sam. 23. 3.</note> ſays, <hi>That which is altogether juſt ſhalt thou follow.</hi> Alto<g ref="char:EOLhyphen"/>gether <note place="margin">Deut. 16. 20.</note> juſt (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>Juſtice, juſtice.</hi> The doubling of the <note place="margin">
+                  <hi>Ainſworth</hi> on the place.</note> word is for more vehemency. The meaning is, all man<g ref="char:EOLhyphen"/>ner of juſtice, and nothing but juſtice, exactly, carefully, and continually.</p>
+            <p>The ſpeciall things which belong to <hi>Rulers</hi> in way of judging are theſe, and ſuch like.</p>
+            <p n="1">1. To provide good and wholſome Lawes for them<g ref="char:EOLhyphen"/>ſelves and their people to walke by. God doth not judge men, but by and according unto a Law. <hi>We have a Law;</hi> 
+               <note place="margin">John 19. 7. Ch. 7. 51.</note> 
+               <hi>and by our Law he ought to die—.Doth our Law judge any man before it heare him, and know what he doth? -Sitteſt thou heare to judge me after the Law, and commandeſt me to be ſmitten contrary to the Law?</hi> Acts 23. 3. We ſee good men <hi>plead</hi> the <hi>Law,</hi> and wicked men <hi>pretend</hi> to it. Both ſuppoſe it as a neceſſary rule.</p>
+            <p n="2">2. To appoint inferior Officers and Judges in all pla<g ref="char:EOLhyphen"/>ces, and for all kinds of buſineſſe. <hi>Judges and Officers ſhalt</hi> 
+               <note place="margin">Deut. 16. 18.</note> 
+               <hi>thou make thee in all thy gates, which the Lord thy God giveth thee, throughout thy Tribes, and they ſhall judge the people with juſt judgement.</hi> Of <hi>Jehoſophat,</hi> it is thus recorded, <hi>And he</hi> 
+               <note place="margin">2 Chro. 19. 5, 9.</note> 
+               <hi>ſet Judges in the Land throughout all the fenced Cities of Ju<g ref="char:EOLhyphen"/>dah, City by City.</hi> And as touching the right manner of judging, <hi>He charged them, ſaying, Thus ſhall ye doe in the feare of the Lord, and with a perfect heart.</hi>
+            </p>
+            <p n="3">3. To ſee that right be done to every perſon, (even to the pooreſt and meaneſt, the widdow, fatherleſſe, and ſtranger) in every cauſe, without partiality and by<g ref="char:EOLhyphen"/>reſpects, as in Gods preſence, and in Gods ſtead. <hi>Oh houſe of David, Thus ſaith the Lord, Execute judgement in the mor<g ref="char:EOLhyphen"/>ning,</hi> 
+               <note place="margin">Jerem. 21. 12.</note> 
+               <hi>and deliver him that is ſpoyled out of the hand of the oppreſſor, leſt my fury goe out like fire, and burne that none</hi>
+               <pb n="20" facs="tcp:154865:15"/>
+               <hi>can quench it, becauſe of the evill of your doings.</hi>
+            </p>
+            <p n="4">4. To encourage the good, and terrifie the wicked. <hi>For Rulers are not a terror to good workes,</hi> (i. e. ought not to <note place="margin">Rom. 13. 3.</note> be) <hi>but to the evill.</hi> This was <hi>Davids</hi> reſolution as a King. <hi>A froward heart ſhall depart from me, I will not know a wicked</hi> 
+               <note place="margin">Pſal. 101. 4, &amp;c.</note> 
+               <hi>perſon. Who ſo privily ſlandereth his neighbour, him will I <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut off: him that hath an high looke, and a proud heart will I not ſuffer, &amp;c.</hi>
+            </p>
+            <p>5. By all good and lawfull meanes to provide that all ſorts of men, and eſpecially ſuch as are in covenant with God may lead a quiet and a peaceable life, in all godli<g ref="char:EOLhyphen"/>neſſe and honeſty. <hi>Subjects muſt pray for this</hi> 
+               <note n="*" place="margin">1 Tim. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2.</note>. Rulers muſt improve their authority toward the furtherance of it. This muſt be their end, ayme, deſire, and endeavour. Gods example toward men. His command laid upon Governours. The end why Magiſtracy was ordained. That happineſſe which all men naturally deſire, and cannot otherwiſe be attained. The light of nature, and dictate of every mans conſcience, as alſo the Oaths which are uſually tendered, almoſt among all Nations to Prin<g ref="char:EOLhyphen"/>ces at their ſolemne Coronation, doe not onely ſufficient<g ref="char:EOLhyphen"/>ly informe, but abundantly convince of all this, which in one word is <hi>to judge.</hi>
+            </p>
+            <p>And that Governours may be the better able, and more faithfull in judgeing, it is exceeding neceſſary, that <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Part. to diſ<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ne between good and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad.</note> they <hi>diſcerne betweene good and bad,</hi> which is the ſecond thing wherein <hi>Solomon</hi> deſires to be enabled by God, and a ſecond part of the duty of <hi>Governours.</hi> The wo<g ref="char:EOLhyphen"/>man of <hi>Tekoah</hi> praiſes <hi>David</hi> in this reſpect, and for that excellency which God had beſtowed on him in this kind. <hi>-As an Angell of God, ſo is my Lord the King to diſcerne be<g ref="char:EOLhyphen"/>tweene good and bad</hi> 
+               <note n="(a)" place="margin">2 Sam. 14. 17 <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>. The phraſes of the Originall Language are not altogether the ſame in the Text <note n="(b)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>,
+<pb n="21" facs="tcp:154865:15"/>
+and in the place laſt cited <hi>(c),</hi> but the ſenſe ſeemes to be one in both, and plainely to imply, that as all Chriſtians <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> in matters of faith and Religion ſhould labour to have <hi>their ſenſes exerciſed to diſcerne both good and evill</hi> 
+               <note n="(d)" place="margin">Heb. 5. 14. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>, as in the phraſe of the New Teſtament: ſo all that are in authority ſhould endeavour the like in matters of go<g ref="char:EOLhyphen"/>vernment. Which is the more neceſſary in theſe regards.</p>
+            <p>1. <hi>For themſelves,</hi> that they may know what they have to doe upon all occaſions, <hi>and diſtinguiſh betweene the right hand and the left,</hi> to ſecure their owne inward peace, and that outward reſpect, reverence, and obedience, which is neceſſary from others. Nothing doth ſo much affect the heart of inferiours as to ſee a <hi>divine Spirit</hi> in thoſe who are over them. When <hi>Solomon</hi> had given proofe in one ſpeciall inſtance of his ability this way, the Text ſays, <hi>All Iſrael heard of the judgement which the King had judged, and they feared the King, for they ſaw that the wiſdome of God was in him to doe judgement</hi> 
+               <note n="(e)" place="margin">1 Kings 3. 28.</note>.</p>
+            <p>2. <hi>For others,</hi> that they may give <hi>ſuum cuique,</hi> every one that which is their due. Praiſe and encouragement unto ſuch as deſerve it, <hi>and bring the wheele upon the wicked.</hi> Their frownes and ſmiles, their eare, and eye, their ſeve<g ref="char:EOLhyphen"/>rity and clemency muſt be diſtributed and applied to each perſon according to their demerit. That rule of the Apoſtle may be of great uſe here. <hi>And of ſome have compaſſion, making a difference</hi> 
+               <note n="(f)" place="margin">Jude 22. v.</note>. How miſerably the judgements of ſome are blinded, their affections miſpla<g ref="char:EOLhyphen"/>ced, their waies and doings corrupted for want of ability this way, poore ſubjects have too much ſeene and felt. <hi>Haman</hi> is preferred at Court, when the Tree is fitter for him; and <hi>Mordecai</hi> is forgotten till it was almoſt too late to remember him. There was a great deale of zeale a<g ref="char:EOLhyphen"/>gainſt the poore <hi>Gibeonites,</hi> and none againſt the <hi>Amale<g ref="char:EOLhyphen"/>kites,</hi>
+               <pb n="22" facs="tcp:154865:16"/>
+though there was a <hi>Covenant</hi> to preſerve the one <note n="(a)" place="margin">Joſh. 9 15.</note> and both a generall <note n="(b)" place="margin">Deut. 25 19.</note> and a ſpeciall <hi>Law</hi> 
+               <note n="(c)" place="margin">1 Sam. 15. 3.</note> to deſtroy the other. Chriſt muſt be crucified, &amp; <hi>Barabbas</hi> releaſed. The Kings of the earth <hi>agree, and give their Kingdomes unto the</hi> 
+               <note place="margin">Note.</note> 
+               <hi>beaſt</hi> 
+               <note n="(d)" place="margin">R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u. 17. 17.</note> But when the Kingdoms of this world ſhould be<g ref="char:EOLhyphen"/>come the Kingdomes of our Lord, and of his Chriſt, <hi>The Nations will be angry.</hi> 
+               <note n="(e)" place="margin">Ch. 11. 18.</note>
+            </p>
+            <p>3. Good and evill doe ſometimes change apparell, and evill is alwaies bold to thruſt in even among Governours without aſking leave, and exalts it ſelfe in the midſt of them. <hi>I ſaw under the Sunne the place of judgement, that</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 3. 16.</note> 
+               <hi>wickedneſſe was there; and the place of righteouſneſſe, that iniquity was there.</hi> If it were not ſo, there would be no cauſe for the Lord to threaten in that manner as he doth by <hi>Iſaiah. -Woe unto them that decree unrighteous decrees,</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 10. 1.</note> 
+               <hi>and that write grievouſneſſe, which they have preſcribed.</hi> What is it therefore that Governours, eſpecially <hi>Law<g ref="char:EOLhyphen"/>givers</hi> have to doe, but to diſcerne, as betweene perſon and perſon, ſo likewiſe betweene Law and Law? It fol<g ref="char:EOLhyphen"/>lowes not, becauſe it is a Law, therefore it is juſt <note n="*" place="margin">Mi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ah. 6. 16.</note>, and much leſſe is that a good conſequence. Such or ſuch have a power to make Laws, therefore this ſhall be a Law. A diſcerning faculty muſt be improved by the way. <hi>And this ſhall ſuffice for the firſt Doctrine.</hi> It will be neceſ<g ref="char:EOLhyphen"/>ſary to repeat the ſecond againe in the ſame termes wherein it was firſt delivered.</p>
+            <p>
+               <hi>All that are in place of government have ſpeciall need of wiſdome. Solomons</hi> requeſt muſt be theirs for themſelves. <note place="margin">2. <hi>Doctr.</hi>
+               </note> 
+               <hi>Give unto thy ſervant an underſtanding heart.</hi> There is a truth in the point, whether we apply it to Officers in the Common-wealth, or in the Church <hi>Moſes</hi> directing the people of Iſrael in the choice of Magiſtrates, pre<g ref="char:EOLhyphen"/>ſcribes wiſdome for a neceſſary qualification. <hi>Take ye wiſe</hi>
+               <pb n="23" facs="tcp:154865:16"/>
+               <hi>men, and underſtanding, and knowne among your Tribes, and I will make them Rulers over you.</hi> And when the <hi>Apoſtles</hi> 
+               <note place="margin">Deut. 1. 13.</note> ſaw it neceſſary to inſtitute <hi>Deacons</hi> to eaſe themſelves of their care, and burden in ſerving Tables, and making proviſion for the poore, they give the ſame thing in charge. <hi>-Looke you out among your ſelves men of honeſt re<g ref="char:EOLhyphen"/>port, full of the holy Ghoſt and wiſdome.</hi> And if men be not <note place="margin">Acts 6. 3.</note> ſit to mannage the buſineſſe of the poore unleſſe they be even <hi>full of the holy Ghoſt and wiſdome,</hi> it will clearely follow that the greater and more noble imployments doe much more require alike proportion of endow<g ref="char:EOLhyphen"/>ment.</p>
+            <p>As for <hi>State-governours,</hi> they have much buſineſſe to runne through. Many enemies to encounter with, either forraine, or domeſtique, or both. As <hi>Paul</hi> ſaid to the El<g ref="char:EOLhyphen"/>ders of the Church, <hi>-Of your ſelves ſhall men ariſe, ſpeaking perverſe things to draw diſciples after them:</hi> ſo may it be <note place="margin">Acts 20. 30.</note> ſaid to the Elders of the Land. There will be ſome, even among you that will drive their owne deſignes, and con<g ref="char:EOLhyphen"/>ſult their owne intereſts, and ſo make parties and facti<g ref="char:EOLhyphen"/>ons, to the prejudice of publique good. <hi>David</hi> makes a ſad complaint to <hi>Abiſhai, Behold my ſonne which came forth of my bowels ſeeketh my life.</hi> And the like is too often veri<g ref="char:EOLhyphen"/>fied <note place="margin">2 Sam. 16. 11. <hi>Filius ante diem &amp;c.</hi>
+               </note> in others. Among enemies we may well reckon flat<g ref="char:EOLhyphen"/>terers, hypocrites, falſe friends, as well as thoſe who are factious, ſeditious, rebellious, <hi>traiterous, heady, and high-minded,</hi> and it will require no ſmall meaſure of wiſdome to deale with all theſe to advantage. The truſt which is repoſed in ſupreame Magiſtrates is great. The perſons which they have to governe are many in number, of dif<g ref="char:EOLhyphen"/>ferent conditions, diſpoſitions, opinions, in whom there is a mixture of all contrarieties. That which pleaſes ſome, others abhorre. One mans riſe is from anothers
+<pb n="24" facs="tcp:154865:17"/>
+ruine. The ends which ſhould be proſecuted are high and noble. The meanes not eaſie to be determined, and ſuch as often miſcarry. The ſubject to be wrought upon is ill affected, and ſo are the inſtruments. The want of a little wiſdome doth often prove a great prejudice, not onely to the credit of ſuch as are in authority <note n="a" place="margin">Eccl 10. 1.</note> but to the ſucceſſe of their affaires.</p>
+            <p>Beſides all theſe generals, I deſire theſe few particulars may be taken into conſideration.</p>
+            <p>1. <hi>Even the beſt Governours are ſubject to a great deale of cenſure.</hi> 
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> There be many curious eyes upon them. Many that ſeeke advantages againſt them, and <hi>waite for their halting.</hi> If any evill befall the multitude they are apt to charge it upon ſuch as are over them. <hi>Moſes</hi> and <hi>Aaron</hi> could not have ſubſiſted under the murmurings, com<g ref="char:EOLhyphen"/>plaints, &amp; conſpiracies which were directed againſt them, though they were ſet over <hi>Iſrael</hi> by <hi>Gods</hi> extraordinary appointment, had not the <hi>Lord</hi> himſelfe wrought mira<g ref="char:EOLhyphen"/>cles for their preſervation, and for the dreadfull confu<g ref="char:EOLhyphen"/>ſion of <hi>Korah</hi> and his complices. When <hi>Davids</hi> company were a little more then ordinarily diſtreſſed, <hi>they ſpake of ſtoning him.</hi> 
+               <note place="margin">1 Sam. 30. 6.</note>
+            </p>
+            <p>3. Suppoſe that all in authority were as happy all their lives as <hi>David</hi> was for a while. <hi>Whatſoever the King did, pleaſed all the people.</hi> Yet <hi>there is a ſtrict account to be</hi> 
+               <note place="margin">2 Sam. 3. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.</note> 
+               <hi>given unto God hereafter.</hi> For we muſt all appeare before the Judgement-ſeat of Chriſt, that every one may re<g ref="char:EOLhyphen"/>ceive the things done in his body, according to that he hath done, whether it be good or bad. If therefore we <note place="margin">2 Cor. 5. 10.</note> can approve our ſelves to the world, that will not ſatiſ<g ref="char:EOLhyphen"/>fie. <hi>All the Lyons of the world muſt give an account to the</hi> 
+               <note place="margin">Note.</note> 
+               <hi>Lambe.</hi> He is the bleſſed, and the onely Potentate, the King of Kings, and Lord of Lords. <hi>The onely Potentate,</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tim. 6. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5.</note>
+               <pb n="25" facs="tcp:154865:17"/>
+becauſe he alone is to continue King for ever. To be a Monarke, is onely to act a part for a while upon the Theatre of this world. <hi>It is appointed unto all men once to die, and after this the judgement. And I ſaw the dead</hi> (ſaith <note place="margin">Heb. 9. 27.</note> St. <hi>John) ſmall and great, ſtand before God: and the bookes were opened-. And the dead were judged out of thoſe things which were written in the bookes, according to their workes.</hi> 
+               <note place="margin">Rev. 20. 12.</note> Shifts, ſubtilties, excuſes, &amp;c. will ſtand no man in ſtead at <hi>that day.</hi> Who ever ponders theſe things aright will ſurely apply his heart unto wiſdome. Yet becauſe ſome, though they be not ſo Atheiſticall as to queſtion the foregoing conſideration, may be the leſſe affected with it becauſe it's future, an object of faith and not of ſenſe, therefore I'le adde this third.</p>
+            <p>3. <hi>There is a wiſdome</hi> (ſuch as it is) <hi>even in Satan and in all his inſtruments.</hi> His inſtruments for number are <hi>legi<g ref="char:EOLhyphen"/>ons,</hi> 
+               <note place="margin">Luke 8. 30.</note> for property <hi>they transforme themſelves into Angels of</hi> 
+               <note place="margin">2 Cor. 11. 14, 15</note> 
+               <hi>light;</hi> and as touching the meaſure of their wiſdome, <hi>they are in their generation wiſer than the children of light.</hi> 
+               <note place="margin">Luke 16. 8.</note> The ſpirit of Machiavel, and the Jeſuits is I feare to be ſound in many who would be thought to be at as great a diſtance from them, as the Jewes from Satan when as Chriſt told them, <hi>Ye are of your father the divell-.</hi> Such <note place="margin">John 8 44.</note> will never be diſcovered, muchleſſe prevented in their miſchievous devices to hinder good, and increaſe miſery, unleſſe it be by that <hi>wiſdome which all our adverſaries are not able to reſiſt.</hi> Thus much to ſhew the neceſſity of wiſdome.</p>
+            <p>The third Doctrine. <hi>Wiſdome is to be preferred before all earthly bleſſings, eſpecially wiſdome for government in</hi> 
+               <note place="margin">3. <hi>Doctr.</hi>
+               </note> 
+               <hi>Governours.</hi>
+            </p>
+            <p>It's hard to looke beſides the proofe of this point, if we caſt our eyes into the booke of <hi>Proverbs.</hi> Thus we
+<pb n="26" facs="tcp:154865:18"/>
+read in the third chapter, <hi>Happy is the man that findeth wiſdome, and the man that getteth underſtanding. For the merchandize of it is better than the merchandize of Silver, and the gaine thereof than fine Gold. &amp;c.</hi> And in the fourth <note place="margin">Prov. 3. 12, 13.</note> chapter, <hi>Wiſdome is the principall thing, therefore get wiſ<g ref="char:EOLhyphen"/>dome; and above all thy getting get underſtanding. Exalt her and ſhe ſhall promote thee, &amp;c.</hi> Yet further in the eighth <note place="margin">Ch 4. 7.</note> chapter, <hi>Receive my inſtruction, and not Silver, and know<g ref="char:EOLhyphen"/>ledge rather than choice Gold. For wiſdome is better than Rubies, and all the things that may be deſired are not to be compared to it.</hi> Surely there is a worth in wiſdome more <note place="margin">Ch. 8. 10. 11.</note> then we doe readily believe, or commonly apprehend. <hi>The Holy Ghoſt uſeth no repetition in vaine.</hi> If it were diſ<g ref="char:EOLhyphen"/>cerned as it is, it would inflame us with the love of it. <note n="*" place="margin">
+                  <hi>Si oculis cer<g ref="char:EOLhyphen"/>neretur, mirabiles ſui amores exci<g ref="char:EOLhyphen"/>taret. Cicero de Off. lib.</hi> 1.</note> And yet ſome caution muſt be uſed in our eſtimation of it. We may not compare it with the love of God in Chriſt. Nor with any ſaving grace: (when we ſpeake of politique wiſdome) But it's better 1. than long life. <hi>A ſinner may doe evill an hundred times and his daies be prolonged.</hi> Or 2. then riches. <hi>There is a ſore evill which</hi> 
+               <note place="margin">Eccleſ. 8. 12.</note> 
+               <hi>I have ſeene under the Sunne, riches kept for the owners thereof to their hurt.</hi> 3. It's better than victory over <note place="margin">Ch. 5. 13.</note> enemies. If that be not well improved, as it ſeldome is, our ſhame and miſery may be the greater in the end, as <note place="margin">Vincere ſcis Hannibal. &amp;c.</note> it was with <hi>Saul</hi> in conquering the Amalekites, with <hi>Ahab</hi> when he tooke <hi>Benhadad</hi> priſoner, and with <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> who quickly ſkipt over the world like a Goat, (ac<g ref="char:EOLhyphen"/>cording to <hi>Daniels</hi> prophecy) <hi>and touched not the ground,</hi> 
+               <note place="margin">Dan. 8. 5.</note> as if he had flowne in the ayre, rather than marched with an Army on earth. But this <hi>great horne</hi> was ſoon broken, and all his glory like <hi>Jonahs gourd,</hi> grew up and withered <note place="margin">Jonah 4. 6, 7.</note> all in a day. 4. It's better alſo then ſucceſſe in buſineſſe, for that is common to wiſe men and fooles. <hi>-The race is</hi> 
+               <note place="margin">Eccl. 9. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <pb n="27" facs="tcp:154865:18"/>
+               <hi>not to the ſwift, &amp;c.</hi> Wiſdome prepares the heart to beare all events, and make advantage of them. 5. Yea we may truely ſay, it's better than any ſingle vertue. All graces without it loſe their luſtre. Patience is folly and cowar<g ref="char:EOLhyphen"/>dize. Zeale, madneſſe. Courage and reſolution, is raſh<g ref="char:EOLhyphen"/>neſſe. Juſtice, cruelty. And mercy, a forfeiture of our ſelves into the hands of the living God.</p>
+            <p>And what ſhall I ſay for the benefit of it? It directs Governours how to diſcharge their duty to God and man aright in all reſpects. This one alone ſhall ſuffice to be inſtanced in, in ſtead of all the reſt. All the precious ſtones in the Prieſts breſt-plate were not be compared with the Urim and Thummin: knowledge of that which ought to be done, and a readineſſe in doint it, makes a compleat man, a compleat Chriſtian, and a compleat Ruler. Wherein conſiſts the excellency of Chriſt, as King of the Church, but in this, that <hi>the Spirit of the Lord</hi> 
+               <note place="margin">Iſa. 11. 2.</note> 
+               <hi>reſts upon him, the ſpirit of wiſdome and underſtanding, the ſpirit of counſell and might, the ſpirit of knowledge, and of the feare of the Lord?</hi>
+            </p>
+            <p>But will any kind of wiſdome ſuffice Governours? No. It muſt be <hi>wiſdome for government.</hi> 
+               <note n="a" place="margin">
+                  <hi>Sapientiam quam a Deo So<g ref="char:EOLhyphen"/>lomon poſtulavi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> non eam intelli<g ref="char:EOLhyphen"/>go qua fit a eſt in</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>ſed potius quae ad res green<g ref="char:EOLhyphen"/>das facit, &amp;</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>ſeu</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>con<g ref="char:EOLhyphen"/>ſuevit appellari. P. M.</hi>
+               </note> A wiſdome to direct them how <hi>to goe in and out.</hi> How to order all their affaires, and each part of their Office upon all occa<g ref="char:EOLhyphen"/>ſions to right ends, by a ſtrait rule, in due ſeaſon, with reſpect to all circumſtances, that what is done may be juſt, honourable, ſeemely, and moſt gracefull. <hi>A wiſe mans heart diſcerneth both time and judgement.</hi> Eccl. 8. 5. And <hi>the wiſdome of the prudent is to underſtand his way -.</hi> Prov. 14. 8. <hi>David</hi> was ſhort of <hi>Solomon</hi> in point of wiſ<g ref="char:EOLhyphen"/>dome, and yet <hi>for government</hi> as well as in other reſpects <hi>he was a man after Gods owne heart,</hi> and <hi>therein a type of Chriſt</hi> who is often called <hi>David</hi> by the <hi>Prophets.</hi> Some
+<pb n="28" facs="tcp:154865:19"/>
+               <hi>great Emperours</hi> were <hi>no Schollers</hi> without any great pre<g ref="char:EOLhyphen"/>judice to their good government. There is therefore a wiſdome wherein Rulers may be wanting. It's no defect in the care that it cannot ſee nor in the eye that it cannot heare. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut for a Ruler to have (like the <hi>Carvers head,</hi> which had <hi>art is multum, &amp; ſenſus nihil,)</hi> a great deale of ſkill in ſome kind, and yet no underſtanding in matters of peculiar concernment, is not onely diſhonourable to himſelfe, but pernicious to his people in regard whereof thats too often verified. <hi>The Prince that wanteth und<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<g ref="char:EOLhyphen"/>ſtan<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing,</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 28 <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.</note> 
+               <hi>is alſo a gre<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t oppreſſon.</hi> Doe but conſider what <hi>Solomon</hi> the father gained by wiſdome, in this kind, and <hi>Rehoboam</hi> his ſonne loſt for want of it, and it will ſuffice for a full proofe of this point.</p>
+            <p>There is enough ſaid to ſhew the neceſſity and excel<g ref="char:EOLhyphen"/>lency of wiſdome, the next enquiry will be how it may be purchaſed, and therein <hi>the fourth Doctrine</hi> in<g ref="char:EOLhyphen"/>ſtructs us.</p>
+            <p>
+               <hi>One ſpeciall meanes to attaine unto wiſdome, is prayer.</hi> We <note place="margin">4. <hi>Doct<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> need no more proofe then thoſe words of the Apoſtle <hi>James, If any of you lacke wiſdome let him aske of God that</hi> 
+               <note place="margin">James 1. 5.</note> 
+               <hi>giveth to all men liberally, and upbraideth not: and it ſhall be given unto him. <g ref="char:V">Ʋ</g>ſe,</hi> and <hi>memory,</hi> though very com<g ref="char:EOLhyphen"/>prehenſive, <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Doct. lib.</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>cap.</hi> 8.</note> yet are too narrow to conclude all neceſſary meane<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Good bookes, good parts, good counſell, Good example, and Gods Word, and the daily ſtudy and meditation thereof <note n="(a)" place="margin">Ama Sanctas <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, &amp; amab<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> te ſap<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n<g ref="char:EOLunhyphen"/>t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a. Hierod. ep. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Demetriadem.</note> doe joyntly and ſeverally con<g ref="char:EOLhyphen"/>duce much to get and perfect wiſdome, but all in vaine without prayer. <hi>It's God who giveth wiſdome unto the wiſe, and knowledge to them that know underſtanding</hi> 
+               <note n="(b)" place="margin">
+                  <hi>Dan.</hi> 2. 21.</note>. Your great <hi>Book-men</hi> are not alwaies the ableſt <hi>Stateſmen.</hi> Much learning hath made ſome mad, and much buſineſſe doth little leſſe. Parts without grace are like to a crab-ſtocke
+<pb n="29" facs="tcp:154865:19"/>
+that was never grafted on. <hi>Rehoboam</hi> had good Coun<g ref="char:EOLhyphen"/>cellors, but he knew not how to make uſe of them. The <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>le of Machiavell, <hi>that Princes muſt heare their Councel<g ref="char:EOLhyphen"/>lors, but be led by their owne dictates,</hi> perverts many, and is perverted by them. Nothing is ſcorn'd ſo much as good example. Great ones doe not love to be preſidented. As for the Scripture, that is moſt of all deſpiſed. As the <hi>Fa<g ref="char:EOLhyphen"/>miliſts</hi> jeare at Scripture-learning under pretence of the Spirits teaching all things, <note n="*" place="margin">The Prephe<g ref="char:EOLhyphen"/>cie of the ſpirit of love, by <hi>H. N.</hi>
+               </note> ſo doe ſome <hi>Statiſts</hi> in their affaires, as if Religion it ſelfe which is learned from it made men both fooles and cowards. But who dares ſpeak againſt <hi>omnipotent prayer?</hi> 
+               <note n="*" place="margin">Luthers ph<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſe</note> If all the reſt availe any thing, this much more. For</p>
+            <p n="1">1. <hi>Prayer alone can procure direction for, and bleſſing upon the true and kindly uſe of all other meanes.</hi> Even diligence and induſtry are ſometimes curſed, becauſe God, and his ordinance of prayer are neglected. <hi>Vaine man would be wiſe</hi> 
+               <note n="(c)" place="margin">Job 11. 12.</note>, but God will not ſuffer it, <hi>Who reſiſts the proud, and gives grace to the humble</hi> 
+               <note n="(d)" place="margin">James 4. 6.</note>.</p>
+            <p n="2">2. <hi>The bleſſing of all things whatſoever depends on prayer.</hi> There is an event, and ſome iſſue of all that is ſaid or done; but who can take any comfort though his buſi<g ref="char:EOLhyphen"/>neſſe proſper if he ſought not unto God? Or who muſt have the blame but our ſelves if any thing miſcarry, when we reſtrained prayer aforehand? Strong reſoluti<g ref="char:EOLhyphen"/>ons, vigorous endeavours, a prudent choice of fit inſtru<g ref="char:EOLhyphen"/>ments, the nicke of time, all poſſible care come to no<g ref="char:EOLhyphen"/>thing if God oppoſe, nay if God doe not graciouſly in<g ref="char:EOLhyphen"/>terpoſe. And when he is humbly ſought unto in prayer, we ſpeed as <hi>Eliezer</hi> in his undertaking to provide a wife for <hi>Iſaac,</hi> as if the things which we deſire ran on wheeles <note place="margin">Geneſ. 34. 15.</note> toward us.</p>
+            <p n="3">3. <hi>Prayer is of all other meanes moſt efficacious.</hi> God will
+<pb n="30" facs="tcp:154865:20"/>
+doe that at the humble requeſt of his ſervants, which he will not doe upon any other occaſion. Not upon the uſe of any other Ordinance. <hi>Daniel</hi> was at prayer, and the Angel <hi>Gabriel</hi> interrupts him (pardon the phraſe) with this meſſage. <hi>I am now come forth to give thee skill, and underſtanding</hi> 
+               <note n="*" place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 20. 22 comp<gap reason="illegible" resp="#APEX" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>.</note>.</p>
+            <p>I'le conclude all in few words. There's no wiſdome ſo meane which we need not pray for. That's not fit to be had or deſired which we are afraid to aſke. To have any at all, eſpecially in mercy, and not be beholding to God for it, is impoſſible. We may <hi>commence</hi> many <hi>degrees per ſaltum,</hi> if God pleaſe to ſhew us ſpeciall favour. A few may get enough to ſave a whole Kingdome. The meanes to attaine it is within every Chriſtians reach, and of dai<g ref="char:EOLhyphen"/>ly uſe.</p>
+            <p>
+               <hi>Thus much for the Doctrinall part of this exerciſe.</hi>
+            </p>
+            <p>Now to make ſome ſpeciall application of all the for<g ref="char:EOLhyphen"/>mer <note place="margin">An entrance into the appli<g ref="char:EOLhyphen"/>cation.</note> points together. I'le not inſiſt upon any uſe of <hi>re<g ref="char:EOLhyphen"/>proofe,</hi> but reſerve that entirely <hi>to my ſelfe.</hi> There needs no <hi>conſutation.</hi> The points themſelves are matter of <hi>in<g ref="char:EOLhyphen"/>ſtruction.</hi> But <hi>exhortation</hi> is exceeding neceſſary, and that ſhall be directed, 1. <hi>To all ſorts</hi> in generall without ex<g ref="char:EOLhyphen"/>ception. And 2. more particularly <hi>unto Governours.</hi>
+            </p>
+            <p>
+               <hi>For the generall part of the exhortation.</hi> 1. Let us labour <note place="margin">Generall ex<g ref="char:EOLhyphen"/>hortation. 1. Branch.</note> to be ſenſible of the want of wiſdome, and to be hum<g ref="char:EOLhyphen"/>bled for that want. Conſider we, 1. <hi>Who want it.</hi> 2. <hi>How farre forth.</hi> And 3. <hi>the miſery which is upon us by reaſon of that want.</hi> Which of us can ſay <hi>I am wiſe,</hi> or I have my due proportion either for the ſoule or for the body, or for outward things? We need it every way in temporall things, and much more in ſpirituall, but moſt of all for matters of eternity. And I feare we want it every way. Who knowes how to order as he ought to doe ſo much
+<pb n="31" facs="tcp:154865:20"/>
+as his owne family, or his owne perſon, any one faculty, or the leaſt member? It were good for us with <hi>David, to take heed to our waies, that we ſinne not with our tongue, to keepe our mouth with a bridle while the wicked is before us</hi> 
+               <note n="*" place="margin">Pſal. 39. 1.</note>. <hi>To make ſtraight paths for our feet, leſt that which is lame be turned out of the way, and that it may rather be healed,</hi> ac<g ref="char:EOLhyphen"/>cording as the <hi>Epiſtle to the Hebrews</hi> doth perſwade <note n="(a)" place="margin">Heb. 12. 13.</note>. And, <hi>To give none offence, neither to the Jewes, nor to the Gentiles, nor to the Church of God, which St. Paul gives in charge</hi> 
+               <note n="(b)" place="margin">1 Cor. 10. 32.</note>. But woe unto us becauſe of offences given, and needleſly received. Offences againſt God, againſt the weake, and the ſtrong, thoſe that are within, and thoſe that are without. Againſt one another, and againſt our enemies, who are not a little ſtrengthened and hard<g ref="char:EOLhyphen"/>ned by our folly. Differences might either be prevented or leſſened, or ſooner remedied, (both the ſmaller and the greater differences) if we had more wiſdome. Fami<g ref="char:EOLhyphen"/>lies, Church, and State, our ſelves, and poſterity, are all in a periſhing condition. If it be <hi>the property of a wiſe wo<g ref="char:EOLhyphen"/>man to build her houſe, and of a fooliſh one to plucke it downe with their hands,</hi> as it is indeed <note n="(c)" place="margin">Prov. 14. 1.</note>. We muſt needs beare our ſhare in that reproach, for hitherto we have done little elſe, which way ſoever we apply the words.</p>
+            <p>
+               <hi>Secondly,</hi> let us conſider the benefit of wiſdome, that <note place="margin">The ſecond branch of the generall exhor<g ref="char:EOLhyphen"/>tation.</note> we may prize it, and hunger after it, as well for the ex<g ref="char:EOLhyphen"/>cellency of it, as to ſupply our want. A little wiſdome may ſtand us in more ſtead then a great deale of ſtrength, witneſſe that <hi>Parable</hi> or <hi>Hiſtory,</hi> I know not whether to call it, <hi>of the little City and few men in it, which was delivered by a poore wiſe man from a great King who came and beſieged it, and built bulwarks againſt it</hi> 
+               <note n="(d)" place="margin">Eccl. 9. 14, 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>. If there be any Plaiſter that can heale our wounds, or any Phyſicke to cure that deadly diſeaſe whereof <hi>Church</hi> and <hi>State</hi> have long been
+<pb n="32" facs="tcp:154865:21"/>
+ſicke, I'me ſure wiſdome muſt be the principall ingredi<g ref="char:EOLhyphen"/>ent. Is there any thing impoſſible to this <hi>moſt Soveraigne <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>race?</hi> could each of us attaine a due proportion, it would reconcile all diſcord and enmity. That ſweet promiſe would be accompliſhed. <hi>The envy of Ephraim ſhall <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and the adverſaries of Judah ſhall be cut off. Ephraim ſhall not envy Judah, and Judah ſhall not vex Ephraim</hi> 
+               <note n="*" place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note>. There's likely to be another Earth-quake to rent not onely the <hi>vaile of the Temple,</hi> but alſo <hi>the foundations of it.</hi> Nothing but wiſdome can prevent this, and I feare <hi>the <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of wiſdome</hi> muſt be brought forth before it will be effected. <hi>A brother offended is harder to be wonne than a ſtrong City, and their contentions are like the barres of a Caſtle</hi> 
+               <note n="(a)" place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 18. 19. <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note>.</p>
+            <p>
+               <hi>Thirdly,</hi> let us pray earneſtly for our ſelves, and one for anothert, that we may be richly ſupplied with this grace, each of us according to our need in all reſpects. <hi>For our King,</hi> in the ſame words that <hi>Solomon</hi> uſeth for himſelfe, <hi>and likewiſe for the Parliament.</hi> For our Armies, for all inferiour Magiſtrates, for the Miniſters of Gods holy Word and Sacraments, and for all the people of the Kingdome. That God would teach us to know our du<g ref="char:EOLhyphen"/>ties towards him, and one unto another in every kind. It may be one reaſon why there is not ſufficient wiſdome found among us, is, becauſe we doe not ſeeke it, or if we deſire it for our ſelves, yet we care not how deſtitute others be. The Lord hath enough in ſtore for us all. There is a ſpeciall promiſe made to Chriſt in thoſe words, <hi>Behold my ſervant ſhall deale prudently, he ſhall be ex<g ref="char:EOLhyphen"/>alted and extolled, and be very high</hi> 
+               <note n="(b)" place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 52. 13.</note>. All that are <hi>heires of promiſe</hi> may plead their <hi>portion even</hi> in this. Chriſt is made unto us <hi>wiſdome,</hi> not onely by <hi>imputation,</hi> but <hi>effuſion.</hi> A ſpirituall and heavenly wiſdome is wrought in Gods
+<pb n="33" facs="tcp:154865:21"/>
+children; whereby they are inſtructed how to pleaſe, and glorifie God, and how to worke out their owne ſalva<g ref="char:EOLhyphen"/>tion. Yea, and how to carry themſelves among men, wherein they ſometimes ſo excell that they are excee<g ref="char:EOLhyphen"/>ding beneficial unto others, <note n="*" place="margin">Joſep<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Daniel, &amp;c.</note> and their adverſaries are ei<g ref="char:EOLhyphen"/>ther convinced, or aſtoniſhed. The <hi>Libertines and others were not able to reſiſt the wiſdome and the ſpirit by which Ste<g ref="char:EOLhyphen"/>ven ſpake</hi> 
+               <note n="(a)" place="margin">Acts 6. 10.</note>. The promiſe which Chriſt made was ge<g ref="char:EOLhyphen"/>nerall, to all the members of his Church. <hi>I will give you a month and wiſdom, which all your adverſaries ſhall not be able to gainſay, or reſiſt (b).</hi> For matters of government, <note place="margin">(<hi>d</hi>) Luke 21. 15</note> there is that in Iſaiah, <hi>-I will alſo make thy Officers peace, and thine exactors righteouſneſſe</hi> 
+               <note n="(c)" place="margin">Iſaiah 60. 17</note>. Which implies, that when God bleſſes <hi>Church</hi> or <hi>State</hi> he will provide gover<g ref="char:EOLhyphen"/>nours for them that ſhall be <hi>wiſe</hi> as well as <hi>juſt,</hi> and ſo order things that all may lead a quiet and a peaceable life in <hi>all</hi> godlineſſe and honeſty <note n="(d)" place="margin">1 Tim. 2. 2.</note>. But it is as hard a matter to obey well, as to rule well; the rather becauſe the <hi>Powers which be</hi> are ſometimes divided againſt God, and among themſelves. In the caſe betweene God and man its clearely reſolved in the Scripture. That queſtion puts it out of queſtion, <hi>Whether it be right in the ſight of God, to hearken unto you more than unto God, judge ye</hi> 
+               <note n="(e)" place="margin">Acts 4. 19.</note>. When the <hi>powers</hi> on earth are divided among themſelves there is a great deale of difficulty pretended, and yet if men were to reſolve this caſe blindfold, I meane abſtra<g ref="char:EOLhyphen"/>ctively from by reſpects and partiality, there is not one of a thouſand who conſulting with the light of nature, or Scripture, would not reſolve for the leſſe power in a juſt cauſe againſt the greater, when there is nothing but greatneſſe to ſupport it. The Lord teach us all to learne this leſſon perfectly which hath coſt us ſo deare. Yet we ſhall doe well in theſe times to take in thoſe words of
+<pb n="34" facs="tcp:154865:22"/>
+               <hi>David, And ſee if there be any wicked way in me, and lead me in the way everlaſting</hi> 
+               <note n="(a)" place="margin">Pſal. 139. 24</note>.</p>
+            <p>
+               <hi>Fourthly,</hi> let us inlarge and bound our deſires about <note place="margin">A fou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th branch of the gene<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all ex<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion.</note> wiſdome as we ought to doe. If we need <hi>a manifold wiſ<g ref="char:EOLhyphen"/>dome,</hi> let us not feare to aſke it, for <hi>God gives liberally.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut we muſt have reſpect unto our ranke, and ſtation. Secret things, high things, other mens matters, needleſſe things, and curioſities muſt be let alone. The onely wiſ<g ref="char:EOLhyphen"/>dome is for every one to be wiſe <hi>for himſelf;</hi> 
+               <note n="(b)" place="margin">Prov. 9<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 2.</note> To know his owne duty, and to doe it. How to prevent offences, and jealouſies, to reconcile differences, to deny our ſelves, and to promote a publique good. <hi>To ſeeke God in due order,</hi> 
+               <note n="(c)" place="margin">1 Chr. 15. 13</note> 
+               <hi>and firſt the Kingdom of God, and the righteouſ<g ref="char:EOLhyphen"/>nes therof.</hi> 
+               <note n="(d)" place="margin">Ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th. 6. 33.</note> 
+               <hi>To ſave our ſouls, though we loſe the world.</hi> 
+               <note n="(e)" place="margin">Ch. 16. 26.</note> 
+               <hi>To ſeare him who hath power to caſt ſoule and body into hell,</hi> 
+               <note n="(f)" place="margin">Ch. 10. 28.</note> 
+               <hi>&amp; not the oppreſſor.</hi> 
+               <note n="(g)" place="margin">Iſaiah 51. 13</note> 
+               <hi>To build Gods houſe, and not our owne</hi> 
+               <note n="(h)" place="margin">Hag. 1. 4.</note>. In a word, <hi>to kiſſe the ſonne leſt he be angry,</hi> 
+               <note n="(i)" place="margin">Pſal. 2. 12.</note> and to make this <hi>our onely deſigne, that whether we live or die we may be the Lords,</hi> 
+               <note n="(k)" place="margin">Rom. 14. 8.</note> and when Chriſt Jeſus ſhal come the ſecond time we may be found in the number of thoſe on the right hand, whom he will welcome to himſelfe, ſaying, <hi>Come ye bleſſed of my father, inherit the Kingdome prepared for you, from the foundation of the world</hi> 
+               <note n="(l)" place="margin">Mat. 25. 34.</note>. Yet the times, and our condition in them call for more than all this. Pray we therefore that the Lord would teach us how to ſtrengthen our friends, to gaine our enemies, if it be poſ<g ref="char:EOLhyphen"/>ſible. But above all, how we may glorifie God, by doing or ſuffering in the midſt of all ſcandals and blaſphemies, whereby he is diſhonoured. How to uſe his ordinances aright. To try the ſpirits, and to know his true Mini<g ref="char:EOLhyphen"/>ſters from the meſſengers of Satan, who transforme themſelves into Angels of light, <hi>Who be the Foxes, the little Foxes, that ſpoile the Vines, and their tender Grapes, and what to doe with them.</hi> 
+               <note place="margin">Cant. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 15.</note>
+            </p>
+            <p>
+               <pb n="35" facs="tcp:154865:22"/>
+               <hi>Yet one ſtep further.</hi> Let's practiſe, exerciſe, and mani<g ref="char:EOLhyphen"/>feſt <note place="margin">A fifth branch of the generall exhortation.</note> our wiſdome in all affaires, and upon all occaſions. When our Saviour ſays, <hi>Be wiſe <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Serpents, and innocent as Doves</hi> 
+               <note n="(a)" place="margin">Mat. 10. 17.</note>, he meanes it of a practicall wiſdome. There is a prudence which ſome <hi>Moraliſts</hi> call <hi>prudentia practice practica</hi> *, which is of all other kinds the moſt <note place="margin">
+                  <hi>Pavonius in E<g ref="char:EOLhyphen"/>thicis, disput.</hi> 1. <hi>q.</hi> 2.</note> excellent. <hi>An ability of the mind whereby we know what is fit to be done, all circumſtances conſidered, and are inclined to doe accordingly.</hi> If things were ſo and ſo, as ſometimes we fancy and deſire, we could tell what to doe, but as they are, we are at our wits end. Our duty is to take the worſt, and make the beſt of it. He's a ſkilfull Pilot that knows how to order the ſhip in a ſtorme, ſo as to prevent ſhipwracke.</p>
+            <p>I'le conclude this generall part of the exhortation with that of St. <hi>James, Who is a wiſe man, and endued with knowledge among you? let him ſhew out of a good converſa<g ref="char:EOLhyphen"/>tion his workes with meekneſſe of wiſdom</hi> 
+               <note n="(b)" place="margin">James 3. 13.</note>. And with St. <hi>Pauls</hi> charge, <hi>See that ye walke circumſpectly,</hi> (or accurate<g ref="char:EOLhyphen"/>ly <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>) <hi>not as fooles, but as wiſe. Redeeming the time, becauſe the daies are evill</hi> 
+               <note n="(c)" place="margin">Eph. 5. 15, 16.</note>.</p>
+            <p>As touching the ſecond part of the exhortation, <hi>to</hi> 
+               <note place="margin">The ſpeciall exhortation unto Gover<g ref="char:EOLhyphen"/>nour<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>ſuch as are in authority, and entruſted with the publique weale,</hi> out of the depth of affection which I beare them, and the <hi>righteous cauſe</hi> wherein they are engaged, I deſire with all due reverence, humility, and ſubjection, to ſpread be<g ref="char:EOLhyphen"/>fore them the following <hi>conſiderations,</hi> that their way may be like <hi>the path of the juſt,</hi> which <hi>is <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the ſhining light that ſhineth more and more unto the perfect day</hi> 
+               <note n="(d)" place="margin">Prov. 4. 18.</note>.</p>
+            <p>The <hi>firſt</hi> conſideration is this. <hi>The feare of the Lord is</hi> 
+               <note place="margin">The firſt ſpeci<g ref="char:EOLhyphen"/>all conſidera<g ref="char:EOLhyphen"/>tion.</note> 
+               <hi>the beginning of wiſdome</hi> 
+               <note n="(e)" place="margin">Prov. 1. 7.</note>. This is ſo much the more to be regarded, becauſe it is ſo often repeated by the Holy Ghoſt in Scripture <note n="(f)" place="margin">Ch. 9. 10. Job 28 28. Pſal. 111. 10.</note>. If there were no more but a <hi>S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>la<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb n="36" facs="tcp:154865:23"/>
+in the cloſe, there ſhould be the more diligent attention to it but being ſo oft inculcated in the ſame book, and by ſeveral men of God, our hearts ſhould be deeply affected with it. Men that have no feare of God before their eyes are ſeldome of Gods counſell. <hi>They plough not with his heifer.</hi> I meane, they conſult not with his Spirit in the word, <hi>no wonder if they read not his riddles.</hi> All his coun<g ref="char:EOLhyphen"/>ſels are to them like the <hi>writing on the wall</hi> to <hi>Belſhazzar. Yea, they have rejected the word of the Lord, and what wiſdome is (or can be) in them</hi> 
+               <note n="(d)" place="margin">Ierem. 8 9.</note>? <hi>The ſecret of the Lord is with them that feare him, and he will ſhew them his Covenant</hi> 
+               <note n="(e)" place="margin">P<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l. 25. 14.</note>. As for the wicked, 'tis with them as with <hi>Jeruſalem. The things which made for her peace were hid from her eyes</hi> 
+               <note n="(f)" place="margin">Luke 19 42.</note>. Labour therefore to be really godly, that you may be truely wiſe, <hi>Have reſpect unto all Gods Commandements, that ye may not be aſhamed</hi> 
+               <note n="(g)" place="margin">Pſal. 119. 6.</note>. <hi>Let his teſtimonies be your delight and counſellors</hi> 
+               <note n="(h)" place="margin">Verſ. 24.</note>.</p>
+            <p>
+               <hi>Secondly,</hi> There is a wiſdom which God curſes, beware <note place="margin">The ſecond conſideration.</note> of it. <hi>He taketh the wiſe in their own craftineſſe. And a<g ref="char:EOLhyphen"/>gaine, The Lord knoweth the thoughts of the wiſe that they are vaine</hi> 
+               <note n="(i)" place="margin">1 Cor. 3. 19, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note>. Thoſe words of the Prophet <hi>Iſaiah</hi> are very dreadfull. <hi>Behold, I will proceed to doe a marvellous worke among this people, even a marvellous worke, and a wonder: for the wiſdome of their wiſe men ſhall periſh, and the underſtand<g ref="char:EOLhyphen"/>ing of their prudent men ſhall be hid</hi> 
+               <note n="(k)" place="margin">Iſa. 29. 14.</note>. The cauſes aſſig<g ref="char:EOLhyphen"/>ned of this ſo fearefull a judgement which the Prophet (though moſt eloquent) wanted words to expreſſe, were <hi>Hypocriſie,</hi> and <hi>Superſtition</hi> in Religion. They that are not wiſe according to the Word for Religion, ſhall not be wiſe for the good of the State; at leaſt their wiſdome ſhal have no good ſucceſſe. <hi>Pharaohs</hi> wiſdom was to keep <hi>Iſrael</hi> under <note n="(l)" place="margin">Exod. 1. 10.</note> but thereby he multiplyed ſtrange plagues upon himſelfe and people, and was utterly
+<pb n="37" facs="tcp:154865:23"/>
+overthrowne in the red Sea, he and all his Hoſt.</p>
+            <p>
+               <hi>Balaams</hi> wiſdome was <hi>to caſt a ſtumbling blocke before the children of Iſrael</hi> 
+               <note n="(a)" place="margin">Revel. 2. 14.</note>, to make them eate things ſacri<g ref="char:EOLhyphen"/>ficed unto Idols, and to commit fornication. by this meanes he thought to have brought them under a curſe, but it lighted on <hi>himſelfe</hi> 
+               <note n="(b)" place="margin">Num. 31. 8.</note>. And on the <hi>Moabites</hi> and <hi>Ammonites, Who were ever after to be looked upon as baſtards, and ſhut out of the Congregation of Iſrael unto the tenth gene<g ref="char:EOLhyphen"/>ration for ever</hi> 
+               <note n="(c)" place="margin">Deu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 23. 2, 3</note>. <hi>Achitophels</hi> wiſdome was to make the difference betweene <hi>David</hi> and <hi>Abſolon</hi> irreconcileable, but God turned it into fooliſhneſſe <note n="(d)" place="margin">2 Sam. 16. 21</note>. <hi>Jeroboams</hi> wiſ<g ref="char:EOLhyphen"/>dome was to make Religion ſerve the State, but while he laboured to ſtabliſh himſelfe by this meanes, he root<g ref="char:EOLhyphen"/>ed out both his family, and the Kingdome it ſelfe <note n="(e)" place="margin">1 King 12. 26, 28.</note>. The <hi>Jewes</hi> were ſo wiſe as to reject Chriſt for feare leſt the <hi>Romans</hi> ſhould take away them, and their Nation <note n="*" place="margin">John 11. 48.</note>. The evill which they feared came upon them, the means which they uſed to prevent a judgment, brought it upon them with expedition. Therefore let there be no oppreſ<g ref="char:EOLhyphen"/>ſion neither of people, nor of Miniſters. Religion muſt be pure, and ſincere. They who conſult other mens miſchiefe, ſhall procure their owne. No perpetuall war but with the divell and ſinne. Let our Kingdomes be the Lords and his Chriſts in the firſt place entirely, leſt we be no more a people. If he be not the Corner-ſtone of the whole building both in <hi>Church</hi> and <hi>State,</hi> all wil prove but a <hi>Babel,</hi> and end accordingly.</p>
+            <p>
+               <hi>Thirdly,</hi> conſider this. Wiſdome and Authority are <note place="margin">The third con<g ref="char:EOLhyphen"/>ſideration.</note> not alwaies intail'd. The <hi>Scribes</hi> and <hi>Phariſees</hi> fate in <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> his chaire, and yet were blind leaders of the blind. It's one of <hi>Solomons</hi> obſervations too often verified. <hi>Folly is ſet in great dignity</hi> 
+               <note n="(f)" place="margin">Ecel. 10. 6.</note>. But <hi>Job</hi> ſpeakes more fully of the way of Gods judgements in this kind. <hi>He leadeth</hi>
+               <pb n="38" facs="tcp:154865:24"/>
+               <hi>Counſellors away ſpoiled, and maketh the Judges fooles</hi> 
+               <note n="(a)" place="margin">Job. 12. 17.</note>. The nineteenth chapter of the Propheſie of <hi>Iſaiah</hi> is full of expreſſions to this purpoſe. At the third verſe, <hi>The ſpirit of Egypt ſhall faile in the midſt thereof, and I will de<g ref="char:EOLhyphen"/>ſtroy the counſell thereof.</hi> At the eleventh verſe, <hi>Surely the Princes of Zoan are fooles, the counſell of the wiſe councellors of Pharaoh is become brutiſh.</hi> And in the thirteenth, <hi>They have alſo ſeduced Egypt, even they that are the ſtay of the Tribes thereof.</hi> We are apt to deſire more and more power, but what gaine we by that without wiſdome? <hi>Great men</hi> had need to be of all other <hi>moſt humble.</hi> And more care muſt be taken to know how to governe, then to be able to command. If this were not an humbling day I ſhould not touch on this particular.</p>
+            <p>
+               <hi>Yet give me leave to draw a little neerer.</hi> 
+               <note n="*" place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fourth <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pe<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll con<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>deration</note> Conſider the <hi>perſons with whom,</hi> and the <hi>things wherein</hi> you have to doe. As for your enemies, I need not bid you beware of them; nor to diſtinguiſh of your friends. I ſpeake of the people generally. Among other obſervations touching their diſpoſition, there's one noted by <hi>Gildas</hi> of old, that they deſire <hi>novi aliquid audire,</hi> to heare of ſome new <note place="margin">G<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ldas in lib. de ex<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Britanniae</note> waies: Hence it is that we have had ſo many changes among us, eſpecially in Religion. <hi>Your care muſt be not ſo much to pleaſe the people, as to doe them good.</hi> We are very greedy of things, and as ſoone weary of them. It might be written over us, <hi>
+                  <g ref="char:V">Ʋ</g>nſtable as water.</hi> A little ſlackning of the golden raines hath made too full a diſcovery of our weakneſſe. But you have three Kingdomes to looke unto. Three diſtreſſed Kingdomes. He's a ſkilfull Phy<g ref="char:EOLhyphen"/>ſitian that can quickly heale or recover the beſt of them. Alas for poore <hi>England,</hi> the diſtemper of it increaſes by the meanes of cure. Who would have thought ſo many of her children would prove unnaturall? Some T<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>res
+<pb n="39" facs="tcp:154865:24"/>
+muſt needs be ſpared for the Wheats ſake. There may be good uſe of the woman of <hi>Tekoa's</hi> parable, if it be well <note place="margin">2 Sam. 14. 6, 7.</note> applied.</p>
+            <p>There is yet another Kingdom about which you muſt <note place="margin">Of the King<g ref="char:EOLhyphen"/>dome of Chriſt.</note> beſtow your greateſt care. I meane the Kingdome of God, and of his Chriſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. In reference to this, ſet your hearts upon that admonition which neerely concernes all in authority. <hi>Be wiſe now therefore O ye Kings, be inſtructed ye Judges of the earth-. Kiſſe the Sonne leſt he be angry, and ye periſh from the way, when his wrath is kindled but a little-.</hi> 
+               <note place="margin">Pſal. 2. 10, &amp; 12</note> The queſtion is not (as ſometime in the Roman Senate) <note place="margin">Tertul. in Apolog.</note> whether Chriſt ſhall be God or no? It's reſolved among all Chriſtians that he is <hi>King of Kings, and Lord of Lords.</hi> And his Kingdome is given him of his Father, and when and where he pleaſes he will rule as King <hi>even in the midſt of his enemies,</hi> 
+               <note n="(b)" place="margin">Pſal. 110. 2.</note> &amp; <hi>bef<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re they are aware.</hi> 
+               <note n="(c)" place="margin">Luke 17. 20, &amp; 21.</note> His <hi>Will</hi> in the Church is <hi>a Law,</hi> and therefore our onely enquiry is, <hi>What is the mind of Chriſt?</hi> In matters of Religion you may over-doe, and under-doe; too much, and too little. I hope you will not be perſwaded to looke on, and be neuters betweene Chriſt and Anti-chriſt, betwixt God and Belial. There are diſputes about liberty and power. The things are certaine, both from Chriſt, how to ſet out the bounds of each, that they may conſiſt and pro<g ref="char:EOLhyphen"/>mote one another in the Church is a taſke that will try all your wiſdomes. Liberty muſt reverence power, and power preſerve liberty. The Lord helpe you to finde out the true meanes for both. I meane all this in matters of Religion. The World hath beene miſtaken in theſe things a great while, and <hi>Chriſt profeſſedly wages warre with the Kings of the earth in theſe latter daies, and ſhall overcome them</hi> 
+               <note n="(d)" place="margin">Rev. 17. 14.</note>. Yea, he invites all the Fowles of the ayre, and Beaſts of the field to banquet on the fleſh of Kings, Cap<g ref="char:EOLhyphen"/>taines,
+<pb n="40" facs="tcp:154865:25"/>
+great and ſmall, &amp;c. <note n="b" place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. 17, 18</note> Which argues there is ſome neglect towards him, and yet we know ſubjection to him and faith in him have beene pretended for many generations. <hi>But we have not learned Chriſt as we ought to doe.</hi> If we ſhall ſtill ſtumble at this ſtone, we ſhall be bro<g ref="char:EOLhyphen"/>ken at the laſt.</p>
+            <p>
+               <hi>And further.</hi> Compare your worke with <hi>Solomons,</hi> the <note place="margin">T<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſpe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>all <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nſide<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>tion.</note> 
+               <hi>advantages,</hi> and <hi>di<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>advantages,</hi> how farre forth it is <hi>alike,</hi> or <hi>unlike.</hi> It's alike in theſe things. 1. He had the ſonnes of <hi>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rviah</hi> as a ſpeciall charge <note n="*" place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note>, they were too ſtrong for <hi>David</hi> his father, but it was expected at his hands that he ſhould ſee juſtice executed on them. It's lookt for at your hands that enemies to the State, and grand delinquents ſhould be brought unto condigne puniſhment impartially; for wherefore elſe hath the Kingdome engaged themſelves to live and die with you? 2. There was a Temple to be built in his daies. And now is the time <hi>that God will raiſe up the Tabernacle of David that was fallen, and cloſe up the breaches thereof, and raiſe up his ruines, and build it as in the daies of old</hi> 
+               <note place="margin">Mi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 9. 11.</note>.</p>
+            <p>3. He had the government of <hi>Gods people,</hi> and ſo 'tis now. The people of this Kingdome are in covenant with God. Yet the caſe differs very much. 1. He had peace round about, we are in the midſt of warre. 2. He was himſelfe a King. But the ſupply of our Kings failings are expected at your hands. Let none of thoſe evils be found <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> in <hi>Y<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>u,</hi> or <hi>your Committees,</hi> which <hi>your ſelves</hi> have complai<g ref="char:EOLhyphen"/>ned of in his <hi>Court</hi> and <hi>Councellors.</hi> He that hath called you unto all this will I hope enable you through his owne Almighty power, for his mercy ſake.</p>
+            <p>
+               <hi>And now bethinke your ſelves what meanes are</hi> 
+               <note place="margin">The ſixth ſpe<g ref="char:EOLhyphen"/>ciall conſidera<g ref="char:EOLhyphen"/>tion</note> 
+               <hi>uſed to corrupt your wiſdome.</hi> Some uſe threatnings, accuſations, and ſlanders. Yea, grievous things are layd
+<pb n="41" facs="tcp:154865:25"/>
+unto your charge, and all this to affright you from your reſolutions and endeavours. Even among your friends there are too many that raiſe miſts, and ſcare you with threats of loſing a party. &amp;c. There be many hypocrites, and fiatterers. Yea, and many <hi>Shimer's</hi> who in the be<g ref="char:EOLhyphen"/>ginning of our troubles lookt upon you as <hi>bloody men, and men of Belial</hi> 
+               <note n="(d)" place="margin">2 Sam. 16. 7.</note>, and now come and ſubmit them<g ref="char:EOLhyphen"/>ſelves as he did <note n="(e)" place="margin">Ch. 19. 16.</note>, I hope you will diſtinguiſh of them. There is a generation who looke for much at your hands, and yet aſke nothing, I meane by way of humble petition. When they finde you or themſelves in ſuch a poſture as that they cannot be denied, it may be you may heare of them. Beſides the many looſe, prophane, and ſcandalous Miniſters, there are a new ſort ariſen among us, who have thruſt themſelves into the Lords Vineyard. It's no leſſe then perſecution (ſo they com<g ref="char:EOLhyphen"/>monly give out) to deſire that their ſuſpicious opi<g ref="char:EOLhyphen"/>nions may be examined according to the Word of God, and they commanded to forbeare the publiſhing and ſpreading of them for the preſent. There be many dan<g ref="char:EOLhyphen"/>gerous bookes abroad, dangerous at leaſt; I le ſay no more.</p>
+            <p>The names of certaine books which have crept abroad of late.</p>
+            <list>
+               <item>Liberty of Conſcience.</item>
+               <item>The bloody Tenent.</item>
+               <item>The compaſſionate Samaritan.</item>
+               <item>John Baptiſt.</item>
+            </list>
+            <p>From among your ſelves there did one ariſe, the fore<g ref="char:EOLhyphen"/>runner of all theſe, called, the <hi>Intereſt of England;</hi> which is the rather to be taken notice of, becauſe it gave occa<g ref="char:EOLhyphen"/>ſion to the reſt. The Calling of Miniſters, the power of Magiſtrates in matter of Religion, the Law of God it ſelfe, are all ſtrucke at. As touching the Calling or Office of Miniſters, I'le ſay nothing for the vindication of it,
+<pb n="42" facs="tcp:154865:26"/>
+leſt I might ſeem partiall. Our Lord Chriſt Jeſus, whoſe we are, and whom we ſerve, will right himſelfe as he pleaſes upon all thoſe who revile any Ordinance or Ser<g ref="char:EOLhyphen"/>vants of his owne appointing. You will not be wanting to your ſelves. Your worke is eaſie, if it be no more then to repeale all Lawes already made in matter of Re<g ref="char:EOLhyphen"/>ligion and to bind your ſelves from ever medling in ſuch matters hereafter. One of thoſe bookes <note n="*" place="margin">The bl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nen<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> is reported to be burnt <hi>by Order.</hi> The ſhell is ſometimes throwne into the fire, when the kernell is eaten as a ſweet morſell. <hi>But I am perſwaded better things of you, though I thus ſpeake.</hi> I beſeech you ſee the Law of God righted. Ne<g ref="char:EOLhyphen"/>ver thinke thoſe men will make mans Law a rule to walk by, whatſoever they pretend, who diſclaime Gods owne Law in that reſpect.</p>
+            <p>
+               <hi>Conſider alſo what helpes God hath graciouſly provided for</hi> 
+               <note place="margin">The ſeventh <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onſideration.</note> 
+               <hi>your encouragement, and the encreaſing of your wiſdome, and improve them.</hi> You have the prayers of many faithfull Miniſters, ordinary and extraordinary. More Sermons have been preacht unto your eares, and printed for your eyes, then for any one Parliament, yea then for all the Par<g ref="char:EOLhyphen"/>liaments that have been before you. There are ſome daily conſulting by your Authority what advice to give you in matters of Religion. They have not ſuch titles among them as <hi>Arch-Biſhops, Biſhops, Deanes, Arch-Deacons,</hi> and it may be they are not looked upon as equally learned, but I hope they will approve themſelves both able and faithfull. I'me ſure they love you better and more ſin<g ref="char:EOLhyphen"/>cerely. And I believe you conſult with them not as <hi>Ahab</hi> with <hi>Micaiah,</hi> with a great deale of prejudice. Nor as the Elders and people of the Jewes with <hi>Jeremiah</hi> 
+               <note n="(a)" place="margin">Jer. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2. 5, 6.</note>, who pretended faire, for thus they ſpake. <hi>The Lord be a true and faithfull witneſſe betweene us if we doe not even ac<g ref="char:EOLhyphen"/>cording</hi>
+               <pb n="43" facs="tcp:154865:26"/>
+               <hi>to all things for the which the Lord thy God ſhall ſend thee to us, whether it be good, or whether it be evill, We will obey the voice of the Lord our God to whom we ſend thee, that it may be well with us when we obey the voice of the Lord our God.</hi> But when it came to triall, this was the <hi>conclu<g ref="char:EOLhyphen"/>ſion,</hi> Ch. 44, 16, 17. <hi>As for the word that thou haſt ſpoken to us in the name of the Lord, we will not harken unto thee; But we will certainely doe whatſoever thing goeth forth out of our owne mouth, &amp;c.</hi>
+            </p>
+            <p>Nor as <hi>Henry the eighth</hi> with the <hi>maſters of the new lear<g ref="char:EOLhyphen"/>ning</hi> 
+               <note place="margin">See the preface before Biſhop <hi>Cranmers</hi> con<g ref="char:EOLhyphen"/>futation of un<g ref="char:EOLhyphen"/>written veri<g ref="char:EOLhyphen"/>ties.</note> (as the firſt endeavours for Reformation were cal<g ref="char:EOLhyphen"/>led) to have their conſent that all Eccleſiaſticall Reve<g ref="char:EOLhyphen"/>nue might be alienated from Eccleſiaſticall uſe, and be diſpoſed of by <hi>Him</hi> arbitrarily, which they oppoſed, and thereupon he made the Whip with ſix ſtrings to ſcourge them withall, I meane the <hi>ſix Articles,</hi> which drew out the heart blood of many of them. But as <hi>Cor<g ref="char:EOLhyphen"/>nelius</hi> and his friends with <hi>Peter, -We are all here preſent before God, to heare all things that are commanded thee of God</hi> 
+               <note n="(b)" place="margin">Acts 10. 33.</note>. Goe on as you have begun, and reverence their advice. The Father of lights make his owne waies plain both before them, and you, to walke in. They conſult the good of the Kingdome, but they alſo ſtand in need of your wiſdome and authority, as for their vindication from unjuſt aſperſions, ſo alſo for neceſſary ſupplies to uphold them in their worke.</p>
+            <p>
+               <hi>Yet againe for your ſelves.</hi> Conſider the ſpeciall things <note place="margin">The eighth conſideration.</note> wherein <hi>Solomons</hi> wiſdome did appeare, and follow them cloſe as you have occaſion. He peremptorily de<g ref="char:EOLhyphen"/>nied unreaſonable Petitions, though preferred by his owne <hi>mother</hi> in his <hi>brothers</hi> behalfe <note n="(c)" place="margin">1 Kings 2. 23</note>. Some thinke him too ſevere in the judgement againſt <hi>Adonijah</hi> for point of death <note n="(d)" place="margin">Sir <hi>W. Ralegh</hi> in Hiſt. of the World, 1 part, 2 b. 18 ch. 1 ſect.</note>, but I never heard of any who ſuſpected
+<pb n="44" facs="tcp:154865:27"/>
+his wiſdome in refuſing to grant him <hi>Haggith.</hi> He that blames the one gives ſtrong reaſons for the other. You have multitude of Petitions before you, and may have more; I make no queſtion but you will diſtinguiſh of them. Onely remember, delays are denials, it's as great an injury not to heare and grant ſome, as it would be to yeeld unto all <note n="(e)" place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 9.</note>. 2. He tooke the firſt opportunity to execute juſtice on grand delinquents, <hi>Joab, Shimei, A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iathar,</hi> &amp;c. and would not leave them to offend a ſe<g ref="char:EOLhyphen"/>cond time. Mercy is ſo good, it's a thouſand pitties it ſhould be miſplac'd. 3. He judged her to be no true mother who would have the living child devided <note n="(f)" place="margin">K<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 3. 27</note>. And certainly they are without naturall affection who deſire to have the Kingdom ſtill divided, &amp; to make wars endleſſe. 4. He ſet himſelfe to build the Temple for the Lord, before he built his owne houſe <note n="(g)" place="margin">1 Kings 6. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8, compared w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 7. 1.</note>. Oh that we had ſought God in due order in this reſpect. Let us re<g ref="char:EOLhyphen"/>deeme the time. 5. There was order, beauty, and com<g ref="char:EOLhyphen"/>lineſſe in all things belonging to his Kingdome <note n="(h)" place="margin">1 Kings 10. 4, 5.</note>. Order and beauty is the end which you aime at, haſten to it apace, and let not all runne into confuſion. 6. The be<g ref="char:EOLhyphen"/>ginning of his reigne was in blood, onely for execution of juſtice; his latter end was peaceable, and that peace moſt glorious. Your beginnings were the ſame, let it not repent you, be true to your principles, and we ſhall ſee alike glorious iſſue.</p>
+            <p>
+               <hi>Conſider alſo his failings, and beware of them.</hi> 1. He had <note place="margin">The ninth conſideration.</note> many wives, even <hi>ſeven hundred Wives, Princeſſes, and three hundred Concubines</hi> 
+               <note n="(i)" place="margin">1 Kings 11. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>. Let not us have as many Religions. There's ſome anology between the one and the other. 2. There was in his daies firſt a connivance at Idolatry, then open toleration, and withall Apoſtacy. <hi>His wives turned away his heart after other gods,</hi> verſ. 4. <hi>He</hi>
+               <pb n="45" facs="tcp:154865:27"/>
+               <hi>built an high place for Chemoſh the abomination of Moah, and for Molech the abomination of the children of Ammon. And likewiſe did he for all his ſtrange wives,</hi> - Verſ. 7, 8. Obſerve the gradation, firſt connivance. Then open to<g ref="char:EOLhyphen"/>leration. Herewithall apoſtacy. What ſhall we thinke of <hi>Solomon?</hi> The papiſts picture him betweene Heaven and Hell. Some Divines, though they reſolve it affirma<g ref="char:EOLhyphen"/>tively, <note place="margin">
+                  <hi>Perkins</hi> caſes of conſcience:</note> yet they make a caſe of conſcience of it, whether he were ſaved or no. Behold in him a perfect patterne of humane frailty. <hi>Let him that ſtandeth take heed leſt he fall.</hi>
+            </p>
+            <p>To prevent the like we have <hi>a Covenant.</hi> God and his <note place="margin">The Covenant urged.</note> Angels are witneſſes of it. The publique faith of the Kingdome is engaged in it. The ſtones of <hi>theſe walls,</hi> and the timber of <hi>this houſe</hi> will riſe up in judgement againſt us if we forget it. Copies of it are by your owne Order ſent abroad to all the <hi>reformed Churches.</hi> And though there be no compariſon betweene a mans cove<g ref="char:EOLhyphen"/>nant and Gods, yet I hope I may ſay of this, it is <hi>Holy, Juſt</hi> and <hi>Good. <g ref="char:V">Ʋ</g>rge it. Renew it,</hi> but above all, <hi>Keepe it. Brethren I ſpeake after the manner of men. Though it be but a mans Covenant, yet if it be confirmed, no man diſanul<g ref="char:EOLhyphen"/>leth or addeth thereto,</hi> Gal. 3. 15. <hi>England ſhall be England, or as Sodome and Gomorrah, according as it breakes or keepes this Covenant.</hi> And if we be ſtedfaſt herein, we ſhall be wiſer in this reſpect then <hi>Solomon</hi> himſelfe.</p>
+            <p>
+               <hi>The next head which I deſire you to thinke on is this.</hi> It <note place="margin">The tenth con<g ref="char:EOLhyphen"/>ſideration.</note> reſts upon you to be thankfull for the great meaſure of wiſdome which God hath graciouſly beſtowed on you. The worke before you hath beene exceeding great, all along very difficult and perplext. The experience which many of you had before was not great. How many have
+<pb n="46" facs="tcp:154865:28"/>
+fainted under the burden? Who knowes not the number and quality of your adverſaries? The plots and treache<g ref="char:EOLhyphen"/>ries which you have diſcovered, prevented, or made ad<g ref="char:EOLhyphen"/>vantage of, are known to all. The buſineſſe of Sea, and Land, peace and warre, at home and abroad, Religion and Juſtice is all in your hands. I hope you have man<g ref="char:EOLhyphen"/>aged all to the ſatisfaction of your owne conſciences. Some envy at your proceedings. Many bleſſe God daily for you. Your proud enemies are at their wits end. They who have tried both ſides ſettle with you at laſt. Your feares fall off as leaves in Winter. Your hopes doe yet flouriſh and waxe greene. How often hath the enemy changed place, like wandring Stars? you are yet fixed in your Orbe, and at reſt like the Center. All theſe are the fruits of Gods wiſdome beſtowed on you. <hi>Be thank<g ref="char:EOLhyphen"/>full, be very thankefull.</hi> What you have done, and what you have ſuffered, will be a good foundation for your ſelves and families to ſucceeding generations. But in this caſe remember <hi>Rabſhakeths</hi> words, though he meant them ill, there's a good uſe to be made of them, <hi>Say not I have councell and ſtrength for the warre</hi> 
+               <note n="(a)" place="margin">Iſaiah 36. 4.</note>. But as the <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eſt &amp; ab <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſte doceri.</note> Pſalmiſt, <hi>Not unto us Lord, not unto us, but unto thy name be the praiſe, &amp;c.</hi> 
+               <note n="(b)" place="margin">Pſal. 115. 1.</note>.</p>
+            <p>
+               <hi>Yet for all the wiſdome which you have be humble.</hi> Re<g ref="char:EOLhyphen"/>member <note place="margin">The eleventh conſideration.</note> the gracious items which the Holy Ghoſt gives unto all ſorts of men, without exception. <hi>Truſt in the Lord with all thine heart, and leane not unto thine owne un<g ref="char:EOLhyphen"/>derſtanding</hi> 
+               <note n="(c)" place="margin">Prov. 3. 5, 7.</note>. And in the ſame place, a little after, <hi>Be not wiſe in thine owne eyes, feare the Lord, and depart from evill.</hi> I may not omit the Lords charge, <note n="(d)" place="margin">Jer. 9. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3.</note> 
+               <hi>Let not the wiſe man glory in his wiſdome, neither let the mighty man glory in his might, &amp;c.</hi> You had need be humble <hi>leſt wiſdom</hi>
+               <pb n="47" facs="tcp:154865:28"/>
+               <hi>pervert you</hi> 
+               <note n="(a)" place="margin">Iſaiah 47. 10</note>. <hi>Leſt it be mingled with a ſpirit of errors</hi> 
+               <note n="(b)" place="margin">Ch. 19. 14.</note>. <hi>Leſt God caſt you downe in ſtony places to make his own words ſweet unto you,</hi> Pſal. 141. 6,</p>
+            <p>
+               <hi>I have but one word more, and that ſhall be for conſolation.</hi> 
+               <note place="margin">The twelfth conſideration.</note> The burthen of judging lies not wholy upon your ſhoul<g ref="char:EOLhyphen"/>der. In the buſineſſe of the Church Chriſt ſtands char<g ref="char:EOLhyphen"/>ged with it as well as you <note n="(c)" place="margin">Gen. 18. 25.</note>. And <hi>God himſelfe is Judge of all the earth.</hi> 
+               <note n="(d)" place="margin">Iſaiah 6. 9.</note> Yea, <hi>he is with you in judgement</hi> 
+               <note n="(e)" place="margin">2 Chr. 19. 7.</note> 
+               <hi>A God in the midſt of Gods</hi> 
+               <note n="(f)" place="margin">Pſal. 82. 1.</note>. He will pity your frailty, and ſupply your defects. His wiſdome ſhall richly ſupply whatſoever is wanting in yours. Endeavour your whole duty. Pray, and pray earneſtly, <hi>that your love</hi> (to the Kingdome) <hi>may abound in all wiſdome.</hi> Nothing remains but that we ſtrive together in prayer with you, and for you.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
